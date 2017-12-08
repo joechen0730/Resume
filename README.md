@@ -1,4 +1,4 @@
-# 陳琇琦 (Tern Chen)
+# 陳琇琦 (Tern Chen) 
 - Birthday: 1980/12/17
 - Education:東方技術學院 / 大眾傳播
 - Location: Taipei City
