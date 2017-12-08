@@ -9,7 +9,7 @@
 ### 專業技能
 - 熟悉 HTML5 : 熟悉應用HTML標籤 熟悉如何切版且不依賴Bootstrap切出客戶需求的頁面
 - 熟悉 css3  : 熟悉排版 了解如何正確使用display(flex、position、z-index、box-model)
-               懂得權重,懂並且基本應用 pseudo element
+ <hr>         懂得權重,懂並且基本應用 pseudo element
 - 響應式網頁(RWD) : 熟悉並可以不依賴套件 設計手機、平板、桌電適用的網頁
 - 了解 Javascript 基本語法，並使用 Jquery / CSS3 呈現網頁動態效果。
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁上
