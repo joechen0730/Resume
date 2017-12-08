@@ -1,20 +1,19 @@
-# 陳琇琦 (Tern Chen) 
-- Birthday: 1980/12/17
-- Education:東方技術學院 / 大眾傳播
+# 陳世勛 (Joe Chen) 
+- Birthday: 1993/07/30
+- Education:景文科技大學 / 電子工程系
 - Location: Taipei City
-- E-mail: tern8299@gmail.com
-- Mobile: 0989-765-550
+- E-mail: yes852956@gmail.com
+- Mobile: 0937-791-264
 <hr>
 
 ### 專業技能
-- 使用 photoshop、illustrator、sketch 進行視覺流程製作，佐以 zeplin 輔助 sublime 切版。
-- 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
+- 熟悉 HTML5 + CSS: 熟悉應用HTML標籤。
 - 使用 Bootstrap 快速開發響應式網頁。
-- 使用 SCSS 管理網頁版型。
+- 使用 gulp 提高網頁載入效率。
 - 了解 Javascript 基本語法，並使用 Jquery / CSS3 呈現網頁動態效果。
 - 利用 AJAX 撈取遠端JSON資料並顯示在網頁上
-- 介接第三方 API 設計 SPA 頁面 (Google Map、Open Data 等等)
 - 了解 Git / Github 與基本指令運用
+- 使用 photoshop 進行視覺流程製作，並將圖檔壓縮及改為SVG，提高載入效率。
 <hr>
 
 ### 工作經驗 
