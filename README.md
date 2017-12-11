@@ -36,7 +36,7 @@
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上<BR>
   ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
   
-- <a href="http://ternchen.000webhostapp.com/BMI/" target="_blank"><B>健康小檢驗-算算 BMI </B> </a> <BR>
+- <a href="https://joechen1.000webhostapp.com/bmi/" target="_blank"><B>健康小檢驗-算算 BMI </B> </a> <BR>
   ⌞ 透過 Javascript 實現數學計算、並擁有 Todo-list 的基本功能(新增、完成與刪除事件) <BR>
 
 - <a href="http://ternchen.000webhostapp.com/Holiday/index.html" target="_blank"><B>連假攻略</B></a> <BR>
