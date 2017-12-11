@@ -37,12 +37,14 @@
   ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
   
 - <a href="https://joechen1.000webhostapp.com/bmi/" target="_blank"><B>健康小檢驗-算算 BMI </B> </a> <BR>
+     <img src="bmi-page.png" width="500" height="150"><BR>
   ⌞ 透過 Javascript 實現數學計算、並擁有 Todo-list 的基本功能(新增、完成與刪除事件) <BR>
 
 - <a href="http://ternchen.000webhostapp.com/Holiday/index.html" target="_blank"><B>連假攻略</B></a> <BR>
   ⌞ 使用 css3 + jquery 製作動畫效果，並將時間轉換成 timeStamp ，待時間到圓圈便會自動轉向。 <BR> 
 
 - <a href="http://ternchen.hol.es/cue_index/" target="_blank"><B>新立方首頁</B> (RWD)</a> <BR>
+  
   ⌞ 繪製手機 / 桌機視覺樣式<BR>
   ⌞ 將 PSD 切成 RWD 佐以 Jquery 呈現動態效果轉換<BR>
 
