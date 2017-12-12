@@ -27,9 +27,10 @@
 <hr>
 
 ### 作品集 
-- <a href="http://ternchen.000webhostapp.com/Travel/index.html" target="blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
-  ⌞ Bootstrap 搭配 SCSS 快速搭建響應式網頁。 <BR>
-  ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。<BR>
+- <a href="https://joechen0730.github.io/trval/" target="blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
+    <img src="travl.jpg" width="500" height="250"><BR>
+  ⌞  使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。 <BR>
+  ⌞  建立各景點獨自詳細資料，調整RWD達到使用者最佳體驗<BR>
 
 - <a href="https://ternmayday.github.io/NESAT_nine/" target="_blank"><B>颱風防災資訊平台</B> (RWD)</a> <BR>
   ⌞ Bootstrap 快速搭建響應式網頁 + SCSS 管理表格樣式。 <BR>
@@ -37,7 +38,7 @@
   ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
   
 - <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><B>健康小檢驗-算算 BMI </B> </a> <BR>
-     <img src="bmi-page.png" width="500" height="150"><BR>
+     <img src="bmi-page.png" width="500" height="250"><BR>
   ⌞ 透過 Javascript 實現數學計算、並擁有 Todo-list 的基本功能(新增、完成與刪除事件) <BR>
 
 - <a href="http://ternchen.000webhostapp.com/Holiday/index.html" target="_blank"><B>連假攻略</B></a> <BR>
