@@ -33,7 +33,8 @@
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。<BR>
   ⌞做出常使用的詳細資料框，將Json資料完整化顯示。<BR>
 
-- <a href="https://ternmayday.github.io/NESAT_nine/" target="_blank"><B>驚奇旅遊</B> (RWD)</a> <BR>
+- <a href="https://joechen0730.github.io/trvaltime/"><B>驚奇旅遊</B> (RWD)</a> <BR>
+  <img src="amazingtrval.png" width="500" height="180"><BR>
   ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電) <BR>
   ⌞ 使用多種plugin 達到各種動畫特效或輪播 加速開發網站<BR>
   
