@@ -46,10 +46,10 @@
   
 - <a href="https://joechen0730.github.io/diner/" target="blank"><B>大堡一餐 diner(rwd) </B> </a> <BR>
   <img src="diner.png" width="500" height="180"><BR>
-⌞ Bootstrap 快速搭建響應式網頁 + RWD 。 
-⌞ 使用視差滾動呈現前後漸層效果
-⌞ 結合 Google Map Api 將資料標記在地圖上。
-⌞ 透過多方參考，並自行設計網頁界面。
+  ⌞ Bootstrap 快速搭建響應式網頁 + RWD 。 
+  ⌞ 使用視差滾動呈現前後漸層效果
+  ⌞ 結合 Google Map Api 將資料標記在地圖上。
+  ⌞ 透過多方參考，並自行設計網頁界面。
 
 
 
