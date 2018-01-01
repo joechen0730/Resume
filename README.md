@@ -44,7 +44,7 @@
   ⌞ 透過 Javascript 實現數學計算、並擁有 Todo-list 的基本功能(新增、完成與刪除事件) <BR>
   ⌞ 使用網頁暫存將資料暫存在網頁中。<BR>
   
-  <a href="https://joechen0730.github.io/diner/" target="blank"><B>大堡一餐 diner(rwd) </B> </a> <BR>
+- <a href="https://joechen0730.github.io/diner/" target="blank"><B>大堡一餐 diner(rwd) </B> </a> <BR>
   <img src="diner.png" width="500" height="180"><BR>
 ⌞ Bootstrap 快速搭建響應式網頁 + RWD 。 
 ⌞ 使用視差滾動呈現前後漸層效果
