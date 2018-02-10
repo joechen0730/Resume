@@ -39,16 +39,16 @@
   <a href="https://joechen0730.github.io/trvaltime/">  <img src="amazingtrval.png" width="500" height="180"><BR></a> <BR>
 
   ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電) <BR>
-  ⌞ 使用多種plugin 達到各種動畫特效或輪播 加速開發網站<BR>
+  ⌞ 使用多種動畫進場特校<BR>
+  ⌞ 加入輪播及位置條，在不同的區塊，位置條會顯示你所在的區域<BR>
   
 - <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><B>健康小檢驗-算算 BMI </B> </a> <BR>
   <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><img src="bmi-page.png" width="500" height="180"></a> <BR>
      
-  ⌞ 透過 Javascript 實現數學計算、並擁有 Todo-list 的基本功能(新增、完成與刪除事件) <BR> 
-  ⌞ 根據所輸入不同的資料後，給予不同顏色的BMI作為回復
+  ⌞ 透過 Javascript 實現數學計算、並擁有 Todo-list (新增、完成與刪除事件) <BR> 
+  ⌞ 根據輸入不同的資料，給予不同顏色條的BMI作為回復<BR>
   ⌞ 使用網頁暫存將資料暫存在網頁中，需要手動刪除才可將資料移除。<BR>
   
-
   
 - <a href="https://joechen0730.github.io/diner/" target="blank"><B>大堡一餐 diner(RWD) </B> </a> <BR>
   <a href="https://joechen0730.github.io/diner/" target="blank"> <img src="diner.png" width="500" height="180"></a><BR>
