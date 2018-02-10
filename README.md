@@ -36,7 +36,7 @@
   ⌞ 做出詳細資料框，將你所點選的地區的資料透過Ajax抓取資料完整後顯示。<BR>
 
 - <a href="https://joechen0730.github.io/trvaltime/"><B>驚奇旅遊</B> (RWD)</a> <BR>
-  <a href="https://joechen0730.github.io/trvaltime/">  <img src="amazingtrval.png" width="500" height="180"><BR></a> <BR>
+  <a href="https://joechen0730.github.io/trvaltime/"><img src="amazingtrval.png" width="500" height="180"><BR></a><BR>
 
   ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電) <BR>
   ⌞ 使用多種動畫進場特校<BR>
