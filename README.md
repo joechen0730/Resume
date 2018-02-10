@@ -55,7 +55,7 @@
   ⌞ 透過多方參考，並自行設計網頁界面。
 
 - <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><B>Joe's Shop 電子商務網站(RWD)(多頁式) </B> </a> <BR>
-  <img src="Joe's-shop.jpg" width="500" height="180"><BR>
+  <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><img src="Joe's-shop.jpg" width="500" height="180"></a><BR>
   ⌞ Bootstrap並修改部分Bootstrap原件建立獨一無二的網站( RWD) 。 <BR>
   ⌞ 在商品頁中加入燈箱，使購買者放大商品，提高購買者的購買慾望<BR>
   ⌞ 加入切換照片的功能，使購買者可選擇不同顏色的服務<BR>
