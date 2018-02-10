@@ -29,18 +29,21 @@
 
 ### 作品集 
 - <a href="https://joechen0730.github.io/trval/" target="blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
-  <img src="trval.png" width="500" height="180"><BR>
+  <a href="https://joechen0730.github.io/trval/" target="blank"><img src="trval.png" width="500" height="180"><BR></a> <BR>
+  
   ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電)  <BR>
-  ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。<BR>
+  ⌞ 透過AJAX技術抓取 JSON 資料，並透過選取或點擊方式，將客戶選擇的地區渲染在網頁上。<BR>
   ⌞ 做出詳細資料框，將你所點選的地區的資料透過Ajax抓取資料完整後顯示。<BR>
 
 - <a href="https://joechen0730.github.io/trvaltime/"><B>驚奇旅遊</B> (RWD)</a> <BR>
-  <img src="amazingtrval.png" width="500" height="180"><BR>
+  <a href="https://joechen0730.github.io/trvaltime/">  <img src="amazingtrval.png" width="500" height="180"><BR></a> <BR>
+
   ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電) <BR>
   ⌞ 使用多種plugin 達到各種動畫特效或輪播 加速開發網站<BR>
   
 - <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><B>健康小檢驗-算算 BMI </B> </a> <BR>
-     <img src="bmi-page.png" width="500" height="180"><BR>
+  <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><img src="bmi-page.png" width="500" height="180"></a> <BR>
+     
   ⌞ 透過 Javascript 實現數學計算、並擁有 Todo-list 的基本功能(新增、完成與刪除事件) <BR> 
   ⌞ 根據所輸入不同的資料後，給予不同顏色的BMI作為回復
   ⌞ 使用網頁暫存將資料暫存在網頁中，需要手動刪除才可將資料移除。<BR>
@@ -48,7 +51,8 @@
 
   
 - <a href="https://joechen0730.github.io/diner/" target="blank"><B>大堡一餐 diner(RWD) </B> </a> <BR>
-  <img src="diner.png" width="500" height="180"><BR>
+  <a href="https://joechen0730.github.io/diner/" target="blank"> <img src="diner.png" width="500" height="180"></a><BR>
+ 
   ⌞ Bootstrap 快速搭建響應式網頁 + RWD 。 <BR>
   ⌞ 使用視差滾動呈現前後漸層效果<BR>
   ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
