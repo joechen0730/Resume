@@ -47,12 +47,19 @@
   
 
   
-- <a href="https://joechen0730.github.io/diner/" target="blank"><B>大堡一餐 diner(rwd) </B> </a> <BR>
+- <a href="https://joechen0730.github.io/diner/" target="blank"><B>大堡一餐 diner(RWD) </B> </a> <BR>
   <img src="diner.png" width="500" height="180"><BR>
   ⌞ Bootstrap 快速搭建響應式網頁 + RWD 。 <BR>
   ⌞ 使用視差滾動呈現前後漸層效果<BR>
   ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
   ⌞ 透過多方參考，並自行設計網頁界面。
 
-
+- <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><B>Joe's Shop 電子商務網站(RWD)(多頁式) </B> </a> <BR>
+  <img src="Joe's-shop.jpg" width="500" height="180"><BR>
+  ⌞ Bootstrap並修改部分Bootstrap原件建立獨一無二的網站( RWD) 。 <BR>
+  ⌞ 在商品頁中加入燈箱，使購買者放大商品，提高購買者的購買慾望<BR>
+  ⌞ 加入切換照片的功能，使購買者可選擇不同顏色的服務<BR>
+  ⌞ 表單設立前端網站的驗證功能，可先偵測表單是否正確。<BR>
+  ⌞ 加入購物車及登入、註冊之功能。<BR>
+  ⌞ 主頁、商品頁、結帳頁都擁有RWD，在較小的頁面中，提高UX的體驗性，將按鈕及商品、文字皆放大，創造大眾電子商務無RWD之功能<BR>
 
