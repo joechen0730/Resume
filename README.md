@@ -54,9 +54,11 @@
   <a href="https://joechen0730.github.io/diner/" target="blank"> <img src="diner.png" width="500" height="180"></a><BR>
  
   ⌞ Bootstrap 快速搭建響應式網頁 + RWD 。 <BR>
+  ⌞ 加入進場特效使顧客有不同的使用體驗<BR>
   ⌞ 使用視差滾動呈現前後漸層效果<BR>
   ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
-  ⌞ 透過多方參考，並自行設計網頁界面。
+  ⌞ 透過多方參考，並自行設計網頁界面。<BR>
+  
 
 - <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><B>Joe's Shop 電子商務網站(RWD)(多頁式) </B> </a> <BR>
   <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><img src="Joe's-shop.jpg" width="500" height="180"></a><BR>
@@ -66,4 +68,14 @@
   ⌞ 表單設立前端網站的驗證功能，可先偵測表單是否正確。<BR>
   ⌞ 加入購物車及登入、註冊之功能。<BR>
   ⌞ 主頁、商品頁、結帳頁都擁有RWD，在較小的頁面中，提高UX的體驗性，將按鈕及商品、文字皆放大，創造大眾電子商務無RWD之功能<BR>
-
+  ⌞ *輪播圖片擷取自蝦皮拍賣，此網站僅供自己練習及投遞履歷使用，無任何商業及營利之行為。<BR>
+  
+  
+- <a href="#" target="blank"><B>Jos's形象網站 (建置中尚未完成)</B> </a> <BR>
+<img src="Profile-website.jpg" width="500" height="180"><BR>
+ 
+  ⌞ 使用 SCSS及Gulp 提高網頁效率及程式碼整潔<BR>
+  ⌞ 使用 視差滾動來達成用戶良好的 UX體驗<BR>
+  ⌞ 加入多種炫麗特效及網頁特效，提升網頁質感<BR>
+  ⌞ 在較小的裝置中，使用右側滑入的導覽列。<BR>
+  ⌞ (預計)將網頁做成專業的形象網站，讓用戶有良好的操作體驗及感官，加深對於此形象網站的好感<BR>
