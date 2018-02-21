@@ -8,14 +8,14 @@
 
 ### 專業技能
 - 熟悉 HTML5 : 熟悉應用HTML標籤 熟悉如何切版且不依賴Bootstrap切出客戶需求的頁面
-- 熟悉 css3  : 熟悉排版 了解如何正確使用display(flex、position、z-index、box-model),懂得權重,懂並且基本應用 pseudo element
-- 響應式網頁(RWD) : 熟悉並可以不依賴套件 設計手機、平板、桌電適用的網頁
-- 了解 Javascript 基本語法，並使用 Jquery / CSS3 呈現網頁動態效果。
-- 利用 AJAX 撈取遠端JSON資料並顯示在網頁上
-- 使用 Bootstrap 快速開發響應式網頁。
-- 使用過 gulp 提高網頁載入效率。
-- 使用過基礎指令 Git / Github 做版本控制
-⌞ 使用過 Git GUI/sourcetree 圖形化介面做版本控制
+- 熟悉 css3/sass : 熟悉排版 了解如何正確使用display(flex、position、z-index、box-model),懂得權重,懂並且應用 pseudo element
+- 熟悉響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版 手機、平板、桌電三種適用的頁面
+- 熟悉 Javascript 語法，並使用 Jquery / CSS3 呈現網頁動態效果、操控Dom元素。
+- 熟悉 Bootstrap 快速開發響應式網頁。
+- 熟悉 Git / Github 做版本控制。
+⌞ 使用 Git GUI/sourcetree 圖形化介面做版本控制
+- 使用 AJAX 撈取遠端後端資料並渲染在網頁上、透過AJAX使用RESTful理念操作。
+- 使用 gulp,webpack 壓縮檔案並提高網頁效率。
 - 使用 photoshop 進行視覺流程製作，並將圖檔壓縮及改為SVG，提高載入效率。
 - 使用過多種plugin 搭配網頁達到多種特效 加速網頁開發
 * 基礎了解SEO搜尋引擎優化；建立有效率且易維護的程式碼；基礎了解相容性；有良好習慣性的註解以便維護及修改
@@ -32,7 +32,7 @@
   <a href="https://joechen0730.github.io/trval/" target="blank"><img src="trval.png" width="500" height="180"><BR></a> <BR>
   
   ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電)  <BR>
-  ⌞ 透過AJAX技術抓取 JSON 資料，並透過選取或點擊方式，將客戶選擇的地區渲染在網頁上。<BR>
+  ⌞ 透過AJAX技術抓取 Json資料，並透過選取或點擊方式，將客戶選擇的地區渲染在網頁上。<BR>
   ⌞ 做出詳細資料框，將你所點選的地區的資料透過Ajax抓取資料完整後顯示。<BR>
 
 - <a href="https://joechen0730.github.io/trvaltime/"><B>驚奇旅遊</B> (RWD)</a> <BR>
@@ -40,7 +40,7 @@
 
   ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電) <BR>
   ⌞ 使用多種動畫進場特校<BR>
-  ⌞ 加入輪播及位置條，在不同的區塊，位置條會顯示你所在的區域<BR>
+  ⌞ 加入輪播及位置條，在不同的區塊，位置條會顯示所在的區域<BR>
   
 - <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><B>健康小檢驗-算算 BMI </B> </a> <BR>
   <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><img src="bmi-page.png" width="500" height="180"></a> <BR>
@@ -57,7 +57,7 @@
   ⌞ 加入進場特效使顧客有不同的使用體驗<BR>
   ⌞ 使用視差滾動呈現前後漸層效果<BR>
   ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
-  ⌞ 透過多方參考，並自行設計網頁界面。<BR>
+  ⌞ 透過多方參考，並自行設計UI/UX界面。<BR>
   
 
 - <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><B>Joe's Shop 電子商務網站(RWD)(多頁式) </B> </a> <BR>
@@ -74,8 +74,8 @@
 - <a href="#" target="blank"><B>Jos's形象網站 (建置中尚未完成)</B></a><BR>
   <img src="Profile-website.jpg" width="500" height="180"><BR>
  
-   ⌞ 使用 SCSS及Gulp 提高網頁效率及程式碼整潔<BR>
+   ⌞ 使用 SCSS及Webpack 提高網頁效率及程式碼整潔<BR>
    ⌞ 使用 視差滾動來達成用戶良好的 UX體驗<BR>
    ⌞ 加入多種炫麗特效及網頁特效，提升網頁質感<BR>
-   ⌞ 在較小的裝置中，使用右側滑入的導覽列。<BR>
+   ⌞ 在較小的裝置中，使用左側滑入的導覽列。<BR>
    ⌞ (預計)將網頁做成專業的形象網站，讓用戶有良好的操作體驗及感官，加深對於此形象網站的好感<BR>
