@@ -72,7 +72,7 @@
   
   
 - <a href="#" target="blank"><B>Jos's形象網站 (建置中尚未完成)</B></a><BR>
-  <img src="Profile-website.jpg" width="500" height="180"><BR>
+  <img src="header.jpg" width="500" height="180"><BR>
  
    ⌞ 使用 SCSS及Webpack 提高網頁效率及程式碼整潔<BR>
    ⌞ 使用 視差滾動來達成用戶良好的 UX體驗<BR>
