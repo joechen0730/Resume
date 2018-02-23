@@ -29,21 +29,21 @@
 
 ### 作品集 
 - <a href="https://joechen0730.github.io/trval/" target="blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
-  <a href="https://joechen0730.github.io/trval/" target="blank"><img src="trval.png" width="500" height="180"><BR></a> <BR>
+  <a href="https://joechen0730.github.io/trval/" target="blank"><img src="trval.png" width="500" height="230"><BR></a> <BR>
   
   ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電)  <BR>
   ⌞ 透過AJAX技術抓取 Json資料，並透過選取或點擊方式，將客戶選擇的地區渲染在網頁上。<BR>
   ⌞ 做出詳細資料框，將你所點選的地區的資料透過Ajax抓取資料完整後顯示。<BR>
 
 - <a href="https://joechen0730.github.io/trvaltime/"><B>驚奇旅遊</B> (RWD)</a> <BR>
-  <a href="https://joechen0730.github.io/trvaltime/"><img src="amazingtrval.png" width="500" height="180"><BR></a><BR>
+  <a href="https://joechen0730.github.io/trvaltime/"><img src="amazingtrval.png" width="500" height="230"><BR></a><BR>
 
   ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電) <BR>
   ⌞ 使用多種動畫進場特校<BR>
   ⌞ 加入輪播及位置條，在不同的區塊，位置條會顯示所在的區域<BR>
   
 - <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><B>健康小檢驗-算算 BMI </B> </a> <BR>
-  <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><img src="bmi-page.png" width="500" height="180"></a> <BR>
+  <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><img src="bmi-page.png" width="500" height="230"></a> <BR>
      
   ⌞ 透過 Javascript 實現數學計算、並擁有 Todo-list (新增、完成與刪除事件) <BR> 
   ⌞ 根據輸入不同的資料，給予不同顏色條的BMI作為回復<BR>
@@ -51,7 +51,7 @@
   
   
 - <a href="https://joechen0730.github.io/diner/" target="blank"><B>大堡一餐 diner(RWD) </B> </a> <BR>
-  <a href="https://joechen0730.github.io/diner/" target="blank"> <img src="diner.png" width="500" height="180"></a><BR>
+  <a href="https://joechen0730.github.io/diner/" target="blank"> <img src="diner.png" width="500" height="230"></a><BR>
  
   ⌞ Bootstrap 快速搭建響應式網頁 + RWD 。 <BR>
   ⌞ 加入進場特效使顧客有不同的使用體驗<BR>
@@ -61,7 +61,7 @@
   
 
 - <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><B>Joe's Shop 電子商務網站(RWD)(多頁式) </B> </a> <BR>
-  <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><img src="Joe's-shop.jpg" width="500" height="180"></a><BR>
+  <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><img src="Joe's-shop.jpg" width="500" height="230"></a><BR>
   ⌞ Bootstrap並修改部分Bootstrap原件建立獨一無二的網站( RWD) 。 <BR>
   ⌞ 在商品頁中加入燈箱，使購買者放大商品，提高購買者的購買慾望<BR>
   ⌞ 加入切換照片的功能，使購買者可選擇不同顏色的服務<BR>
@@ -72,7 +72,7 @@
   
   
 - <a href="#" target="blank"><B>Jos's形象網站 (建置中尚未完成)</B></a><BR>
-  <img src="header.jpg" width="500" height="180"><BR>
+  <img src="header.jpg" width="500" height="230"><BR>
  
    ⌞ 使用 SCSS及Webpack 提高網頁效率及程式碼整潔<BR>
    ⌞ 使用 視差滾動來達成用戶良好的 UX體驗<BR>
