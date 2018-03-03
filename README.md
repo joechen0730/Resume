@@ -13,7 +13,7 @@
 - 熟悉 Javascript 語法，並使用 Jquery / CSS3 呈現網頁動態效果、操控Dom元素。
 - 熟悉 Bootstrap 快速開發響應式網頁。
 - 熟悉 Git / Github 做版本控制。
-⌞ 使用 Git GUI/sourcetree 圖形化介面做版本控制
+- 使用 Git GUI/sourcetree 圖形化介面做版本控制
 - 使用 AJAX 撈取遠端後端資料並渲染在網頁上、透過AJAX使用RESTful理念操作。
 - 使用 gulp,webpack 壓縮檔案並提高網頁效率。
 - 使用 photoshop 進行視覺流程製作，並將圖檔壓縮及改為SVG，提高載入效率。
