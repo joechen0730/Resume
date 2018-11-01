@@ -7,33 +7,39 @@
 <hr>
 
 ### 專業技能
+- 熟悉 Vue 前端框架並搭配bootstrap做開發，將前後端分離，並達成 SPA 的概念
+- 熟悉 Javascript ES6、ES5語法，並熟悉 Jquery 操控Dom元素、呈現網頁動態效果。
+- 熟悉 Bootstrap 快速開發響應式網頁並且客製Bootstrap元件內容達到客戶想要的樣式。
+- 熟悉 Git 做版本控制。
 - 熟悉 HTML5 : 熟悉應用HTML標籤 熟悉如何切版且不依賴Bootstrap切出客戶需求的頁面
-- 熟悉 css3/sass : 熟悉排版 了解如何正確使用display(flex、position、z-index、box-model),懂得權重,懂並且應用 pseudo element
-- 熟悉響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版 手機、平板、桌電三種適用的頁面
-- 熟悉 Javascript 語法，並使用 Jquery / CSS3 呈現網頁動態效果、操控Dom元素。
-- 熟悉 Bootstrap 快速開發響應式網頁。
-- 熟悉 Git / Github 做版本控制。
+- 熟悉 CSS/Sass : 熟悉排版 了解如何正確使用display(flex、position、z-index、box-model、grid),熟悉pseudo element
+- 熟悉 響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版 手機、平板、桌電三種適用的頁面
 - 使用 Git GUI/sourcetree 圖形化介面做版本控制
-- 使用 AJAX 撈取遠端後端資料並渲染在網頁上、透過AJAX使用RESTful理念操作。
-- 使用 gulp,webpack 壓縮檔案並提高網頁效率。
-- 使用 photoshop 進行視覺流程製作，並將圖檔壓縮及改為SVG，提高載入效率。
-- 使用過多種plugin 搭配網頁達到多種特效 加速網頁開發
+- 使用 AJAX Promise(Axios套件)撈取遠端後端資料並渲染在網頁上、透過AJAX使用RESTful理念操作。
+- 使用 Gulp,Webpack 壓縮檔案並提高網頁效率。
+- 使用 Photoshop 進行視覺流程製作，並將圖檔壓縮及改為SVG，提高載入效率。
+- 使用過多種Plugin 搭配網頁達到多種特效 加速網頁開發
 * 了解SEO搜尋引擎優化；建立有效率且易維護的程式碼；了解相容性；有良好習慣性的註解以便維護及修改
+* CSS Style遵循 (OOCSS、BEM 之風格)，以便利後續維護及重複使用性
 <hr>
 
 ### 工作經驗 
+
 -  工作期間 2012/2017 全家便利商店 /  直營店 職位:副店長 <span></span><BR>
--  工作期間 2014/2015 麥當勞 /  直營店 職位實習組長 <span></span><BR>  
+-  工作期間 2014/2015 麥當勞 /  直營店 職位：工讀生 <span></span><BR>  
 
 <hr>
 
 ### 作品集 
-- <a href="https://joechen0730.github.io/trval/" target="blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
-  <a href="https://joechen0730.github.io/trval/" target="blank"><img src="trval.png" width="500" height="230"><BR></a> <BR>
+- <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
+  <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><img src="trval.png" width="500" height="230"><BR></a> <BR>
   
-  ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電)  <BR>
-  ⌞ 透過AJAX技術抓取 Json資料，並透過選取或點擊方式，將客戶選擇的地區渲染在網頁上。<BR>
-  ⌞ 做出詳細資料框，將你所點選的地區的資料透過Ajax抓取資料完整後顯示。<BR>
+  ⌞ 使用 Vue 框架完成，再資料獲取完及運算後渲染至頁面。<BR>
+  ⌞ 透過AJAX技術(Axios) 取得 Json資料。<BR>
+  ⌞ 做出彈跳視窗，將你所點選該地區的資料透過Vue存取資料後並顯示該當地區域的資訊。<BR>
+  ⌞ 動態取得點擊資訊，將資料緩存應用，提升使用者瀏覽體驗。<BR>
+  
+  
 
 - <a href="https://joechen0730.github.io/trvaltime/"><B>驚奇旅遊</B> (RWD)</a> <BR>
   <a href="https://joechen0730.github.io/trvaltime/"><img src="amazingtrval.png" width="500" height="230"><BR></a><BR>
