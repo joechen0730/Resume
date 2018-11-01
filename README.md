@@ -32,7 +32,7 @@
 
 ### 作品集 
 - <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
-  <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><img src="trval.png" width="500" height="230"><BR></a> <BR>
+  <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><img src="trval.jpg" width="500" height="230"><BR></a> <BR>
   
   ⌞ 使用 Vue 框架完成，再資料獲取完及運算後渲染至頁面。<BR>
   ⌞ 透過AJAX技術(Axios) 取得 Json資料。<BR>
