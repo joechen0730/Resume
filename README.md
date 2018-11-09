@@ -39,11 +39,19 @@
   ⌞ 做出彈跳視窗，將你所點選該地區的資料透過Vue存取資料後並顯示該當地區域的資訊。<BR>
   ⌞ 動態取得點擊資訊，將資料緩存應用，提升使用者瀏覽體驗。<BR>
   
+ # Taiwan-weather
+- <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><B>Taiwan Weather</B> (RWD)</a> <BR>
+  <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-1.jpg" width="700" height="500"><BR></a><BR>
+  <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-2.jpg" width="700" height="500"><BR></a> <BR>
+  ⌞ 使用 Vue.js 資料驅動畫面並且動態抓取背景圖及資料
+  ⌞ D3.js 搭配 topojson.js 繪製台灣地圖
+  ⌞ 使用 c3.js 搭配 Axios 動態取得預測天氣，並渲染到頁面上
+  ⌞ Support for more than tablet (最低支援到平板以上)
   
+ 
 
 - <a href="https://joechen0730.github.io/trvaltime/"><B>驚奇旅遊</B> (RWD)</a> <BR>
   <a href="https://joechen0730.github.io/trvaltime/"><img src="amazingtrval.png" width="500" height="230"><BR></a><BR>
-
   ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電) <BR>
   ⌞ 使用多種動畫進場特校<BR>
   ⌞ 加入輪播及位置條，在不同的區塊，位置條會顯示所在的區域<BR>
