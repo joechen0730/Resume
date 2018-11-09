@@ -43,10 +43,10 @@
 - <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><B>Taiwan Weather</B> (RWD)</a> <BR>
   <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-1.jpg" width="700" height="500"><BR></a><BR>
   <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-2.jpg" width="700" height="500"><BR></a> <BR>
-  ⌞ 使用 Vue.js 資料驅動畫面並且動態抓取背景圖及資料
-  ⌞ D3.js 搭配 topojson.js 繪製台灣地圖
-  ⌞ 使用 c3.js 搭配 Axios 動態取得預測天氣，並渲染到頁面上
-  ⌞ Support for more than tablet (最低支援到平板以上)
+  ⌞ 使用 Vue.js 資料驅動畫面並且動態抓取背景圖及資料<BR>
+  ⌞ D3.js 搭配 topojson.js 繪製台灣地圖<BR>
+  ⌞ 使用 c3.js 搭配 Axios 動態取得預測天氣，並渲染到頁面上<BR>
+  ⌞ Support for more than tablet (最低支援到平板以上)<BR>
   
  
 
