@@ -39,8 +39,8 @@
   ⌞ 做出彈跳視窗，將你所點選該地區的資料透過Vue存取資料後並顯示該當地區域的資訊。<BR>
   ⌞ 動態取得點擊資訊，將資料緩存應用，提升使用者瀏覽體驗。<BR>
   
- # Taiwan-weather
-- <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><B>Taiwan Weather</B> (RWD)</a> <BR>
+ 
+<a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"># Taiwan-weather</a> <BR>
   <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-1.jpg" width="700" height="500"><BR></a><BR>
   <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-2.jpg" width="700" height="500"><BR></a> <BR>
   ⌞ 使用 Vue.js 資料驅動畫面並且動態抓取背景圖及資料<BR>
