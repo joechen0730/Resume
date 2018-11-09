@@ -14,8 +14,9 @@
 - 熟悉 HTML5 : 熟悉應用HTML標籤 熟悉如何切版且不依賴Bootstrap切出客戶需求的頁面
 - 熟悉 CSS/Sass : 熟悉排版 了解如何正確使用display(flex、position、z-index、box-model、grid),熟悉pseudo element
 - 熟悉 響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版 手機、平板、桌電三種適用的頁面
-- 使用 Git GUI/sourcetree 圖形化介面做版本控制
+- 使用 Git GUI/sourcetree 圖形化介面做版本控制
 - 使用 AJAX Promise(Axios套件)撈取遠端後端資料並渲染在網頁上、透過AJAX使用RESTful理念操作。
+- 使用 D3.js 及 C3.js 繪製各式動態圖表
 - 使用 Gulp,Webpack 壓縮檔案並提高網頁效率。
 - 使用 Photoshop 進行視覺流程製作，並將圖檔壓縮及改為SVG，提高載入效率。
 - 使用過多種Plugin 搭配網頁達到多種特效 加速網頁開發
@@ -39,8 +40,8 @@
   ⌞ 做出彈跳視窗，將你所點選該地區的資料透過Vue存取資料後並顯示該當地區域的資訊。<BR>
   ⌞ 動態取得點擊資訊，將資料緩存應用，提升使用者瀏覽體驗。<BR>
   
- 
-<a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"># Taiwan-weather</a> <BR>
+ # Taiwan-weather
+ - <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><B>Taiwan Weather</B></a> <BR>
   <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-1.jpg" width="700" height="500"><BR></a><BR>
   <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-2.jpg" width="700" height="500"><BR></a> <BR>
   ⌞ 使用 Vue.js 資料驅動畫面並且動態抓取背景圖及資料<BR>
