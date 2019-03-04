@@ -1,7 +1,7 @@
 # 陳世勛 (Joe Chen) 
 - Birthday: 1993/07/30
 - Education:景文科技大學 / 電子工程系
-- Location: Taipei City
+- Location: New Taipei City
 - E-mail: yes852956@gmail.com
 - Mobile: 0937-791-264
 <hr>
@@ -11,31 +11,46 @@
 - 熟悉 Javascript ES6、ES5語法，並熟悉 Jquery 操控Dom元素、呈現網頁動態效果。
 - 熟悉 Bootstrap 快速開發響應式網頁並且客製Bootstrap元件內容達到客戶想要的樣式。
 - 熟悉 Git 做版本控制。
-- 熟悉 HTML5 : 熟悉應用HTML標籤 熟悉如何切版且不依賴Bootstrap切出客戶需求的頁面
+- 熟悉 HTML5 : 熟悉應用HTML標籤，熟悉如何切版且不依賴Bootstrap切出客戶需求的頁面
 - 熟悉 CSS/Sass : 熟悉排版 了解如何正確使用display(flex、position、z-index、box-model、grid),熟悉pseudo element
-- 熟悉 響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版 手機、平板、桌電三種適用的頁面
+- 熟悉 響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版；手機、平板、桌電三種適用的頁面
 - 使用 Git GUI/sourcetree 圖形化介面做版本控制
 - 使用 AJAX Promise(Axios套件)撈取遠端後端資料並渲染在網頁上、透過AJAX使用RESTful理念操作。
 - 使用 D3.js 及 C3.js 繪製各式動態圖表
 - 使用 Gulp,Webpack 壓縮檔案並提高網頁效率。
 - 使用 Photoshop 進行視覺流程製作，並將圖檔壓縮及改為SVG，提高載入效率。
-- 使用過多種Plugin 搭配網頁達到多種特效 加速網頁開發
+- 使用過多種Plugin 搭配網頁達到多種特效，加速網頁開發
 * 了解SEO搜尋引擎優化；建立有效率且易維護的程式碼；了解相容性；有良好習慣性的註解以便維護及修改
 * CSS Style遵循 (OOCSS、BEM 之風格)，以便利後續維護及重複使用性
 <hr>
 
 ### 工作經驗 
 
--  工作期間 2012/2017 全家便利商店 /  直營店 職位:副店長 <span></span><BR>
--  工作期間 2014/2015 麥當勞 /  直營店 職位：工讀生 <span></span><BR>  
-
+-  工作期間 2018/03 - 2019/05  慕恩創意行銷網頁設計公司 <BR>
+   職位:前端工程師<BR>
+-  工作期間 2012 - 2017 全家便利商店  直營店<BR>
+   職位:副店長<BR>
+-  工作期間 2014 - 2015 麥當勞  直營店<BR>
+   職位:工讀生<BR>
 <hr>
 
 ### 作品集 
-
+ # 匯率兌換網站 ( Vue-Eate ) 
+ - <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><B>匯率兌換網站</B> (RWD)</a> <BR>
+   <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><img src="home-tw.jpg" width="900" height="500"><BR></a> <BR>
+   <img src="ga.jpg" width="900" height="500"><BR>
+   ⌞使用 Vue cli3 ，並用 i18n 支持多語言（中 / 英) 。<BR>
+   ⌞ 使用 MVVM 資料綁定的方式，可在下方表格輸入貨幣金額並且立馬轉換。<BR>
+   ⌞ 透過 node.js 線上資料庫每日抓取新 API資料 <BR>
+   ⌞ 動態偵測網址切換後可直接更改語系(Tw or En) <BR>
+   ⌞ 匯率兌換時，透過參數將值放置網址並且編碼傳送至兌換頁面，重整後解析一樣可得相同數值<BR>
+   ⌞ 使用 Google Analytics 來追蹤網站成效，並且設定轉換率確認使用者停留頁面等等事件<BR>
+   ⌞ 使用 vue-router 製作 SPA 網站 <BR>
+   ⌞ 與<a href="https://github.com/Mix-Liten" target="blank"> Mix-Liten </a>好友透過 Git 共同完成。
+    
  # 高雄旅遊資訊
-- <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
-  <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><img src="trval.jpg" width="500" height="230"><BR></a> <BR>
+ - <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
+   <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><img src="trval.jpg" width="500" height="230"><BR></a> <BR>
   
   ⌞ 使用 Vue 框架完成，再資料獲取完及運算後渲染至頁面。<BR>
   ⌞ 透過AJAX技術(Axios) 取得 Json資料。<BR>
@@ -44,12 +59,12 @@
   
  # Taiwan-weather
  - <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><B>Taiwan Weather</B></a> <BR>
-  <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-1.jpg" width="700" height="500"><BR></a><BR>
-  <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-2.jpg" width="700" height="500"><BR></a> <BR>
-  ⌞ 使用 Vue.js 資料驅動畫面並且動態抓取背景圖及資料<BR>
-  ⌞ D3.js 搭配 topojson.js 繪製台灣地圖<BR>
-  ⌞ 使用 c3.js 搭配 Axios 動態取得預測天氣，並渲染到頁面上<BR>
-  ⌞ Support for more than tablet (最低支援到平板以上)<BR>
+   <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-1.jpg" width="700" height="500"><BR></a><BR>
+   <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-2.jpg" width="700" height="500"><BR></a> <BR>
+   ⌞ 使用 Vue.js 資料驅動畫面並且動態抓取背景圖及資料<BR>
+   ⌞ D3.js 搭配 topojson.js 繪製台灣地圖<BR>
+   ⌞ 使用 c3.js 搭配 Axios 動態取得預測天氣，並渲染到頁面上<BR>
+   ⌞ Support for more than tablet (最低支援到平板以上)<BR>
   
  
 
