@@ -28,9 +28,8 @@
 
 ### 工作經驗 
 
--  工作期間 2018/03 - 2019/05  慕恩創意行銷網頁設計公司 <BR>
+-  工作期間 2018/03 - 2019/05 慕恩創意行銷網頁設計公司 <BR>
    職位:前端工程師<BR>
-   <br>
    * 多種活動網站
      * 優化效能 - 提升網頁載入時間 
      * FB追蹤、Google追蹤 - 點擊及轉換
@@ -38,9 +37,9 @@
    * 形象網站
      * 優化效能 - 模組共用 / 提昇網頁載入時間 / 提升維護品質 
      * 善用 Plugin，達到多種特效
--  工作期間 2012 - 2017 全家便利商店  直營店<BR>
+-  工作期間 2012 - 2017 全家便利商店 直營店<BR>
    職位:副店長<BR>
--  工作期間 2014 - 2015 麥當勞  直營店<BR>
+-  工作期間 2014 - 2015 麥當勞 直營店<BR>
    職位:工讀生<BR>
 <hr>
 
@@ -63,7 +62,7 @@
    <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><img src="trval.jpg" width="500" height="230"><BR></a> <BR>
   
   ⌞ 使用 Vue 框架完成，再資料獲取完及運算後渲染至頁面。<BR>
-  ⌞ 透過AJAX技術(Axios) 取得 Json資料。<BR>
+  ⌞ 透過 AJAX 技術(Axios) 取得 Json 資料。<BR>
   ⌞ 做出彈跳視窗，將你所點選該地區的資料透過Vue存取資料後並顯示該當地區域的資訊。<BR>
   ⌞ 動態取得點擊資訊，將資料透過 computed 將緩存應用，提升使用者瀏覽體驗。<BR>
   
@@ -115,19 +114,19 @@
 
 - <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><B>Joe's Shop 電子商務網站(RWD)(多頁式) </B> </a> <BR>
   <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><img src="Joe's-shop.jpg" width="500" height="230"></a><BR>
-  ⌞ Bootstrap並修改部分Bootstrap原件建立獨一無二的網站( RWD) 。 <BR>
+  ⌞ Bootstrap並修改部分Bootstrap原件建立獨一無二的網站(RWD) 。 <BR>
   ⌞ 在商品頁中加入燈箱，使購買者放大商品，提高購買者的購買慾望<BR>
   ⌞ 加入切換照片的功能，使購買者可選擇不同顏色的服務<BR>
   ⌞ 表單設立前端網站的驗證功能，可先偵測表單是否正確。<BR>
   ⌞ 加入購物車及登入、註冊之功能。<BR>
-  ⌞ 主頁、商品頁、結帳頁都擁有RWD，在較小的頁面中，提高UX的體驗性，將按鈕及商品、文字皆放大，創造大眾電子商務無RWD之功能<BR>
+  ⌞ 主頁、商品頁、結帳頁都擁有RWD，在較小的頁面中，提高UX的體驗性，將按鈕及商品、文字皆放大，創造大眾電子商務無 RWD 之功能<BR>
   ⌞ *輪播圖片擷取自蝦皮拍賣，此網站僅供自己練習及投遞履歷使用，無任何商業及營利之行為。<BR>
   
   
 - <a href="#" target="blank"><B>Jos's形象網站 (建置中尚未完成)</B></a><BR>
   <img src="header.jpg" width="500" height="230"><BR>
  
-   ⌞ 使用 SCSS及Webpack 提高網頁效率及程式碼整潔<BR>
+   ⌞ 使用 SCSS 及 Webpack 提高網頁效率及程式碼整潔<BR>
    ⌞ 使用 視差滾動來達成用戶良好的 UX體驗<BR>
    ⌞ 加入多種炫麗特效及網頁特效，提升網頁質感<BR>
    ⌞ 在較小的裝置中，使用左側滑入的導覽列。<BR>
