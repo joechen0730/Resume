@@ -46,7 +46,7 @@
 <hr>
 
 ### 作品集 
- # 匯率兌換網站 ( Vue-Eate ) 
+ # 匯率兌換網站 (Vue-Eate) 
  - <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><B>匯率兌換網站</B> (RWD)</a> <BR>
    <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><img src="home-tw.jpg" width="900" height="500"><BR></a> <BR>
    <img src="ga.jpg" width="900" height="500"><BR>
@@ -59,7 +59,7 @@
    ⌞ 使用 vue-router 製作 SPA 網站 <BR>
    ⌞ 與<a href="https://github.com/Mix-Liten" target="blank"> Mix-Liten </a>好友透過 Git 共同完成。
     
- # 高雄旅遊資訊
+ # 高雄旅遊資訊 (Kaohsiung-Travel)
  - <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
    <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><img src="trval.jpg" width="500" height="230"><BR></a> <BR>
   
@@ -68,7 +68,7 @@
   ⌞ 做出彈跳視窗，將你所點選該地區的資料透過Vue存取資料後並顯示該當地區域的資訊。<BR>
   ⌞ 動態取得點擊資訊，將資料透過 computed 將緩存應用，提升使用者瀏覽體驗。<BR>
   
- # Taiwan-weather
+ # 台灣天氣圖 (Taiwan-weather)
  - <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><B>Taiwan Weather</B></a> <BR>
    <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-1.jpg" width="700" height="500"><BR></a><BR>
    <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><img src="D3taiwan-2.jpg" width="700" height="500"><BR></a> <BR>
@@ -77,7 +77,7 @@
    ⌞ 使用 c3.js 搭配 Axios 動態取得預測天氣，並渲染到頁面上<BR>
    ⌞ Support for more than tablet (最低支援到平板以上)<BR>
   
-# Vuex-todolist
+# Vuex備忘錄 (Vuex-todolist)
 - <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><B>Vuex-todolist</B> (RWD)</a> <BR>
   <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="vuetodo.png" width="700" height="300"><BR></a> <BR>
   
@@ -88,32 +88,8 @@
   ⌞ 使用 router 偵測路由狀況及獲取資料。
   ⌞ 透過 localStoge 將資料儲存在本地端網頁中，使下次開網頁時並不會被清空。<BR>
   ⌞ 將資料透過 computed 暫存，優化網頁速度及運算時間。<BR>
-  ⌞ 做出時間差模組，可得知當下發文時間及當前時間相差多少 Ex: fb 時間戳，IG時間戳 等等．．。<BR>    
-
-- <a href="https://joechen0730.github.io/trvaltime/"><B>驚奇旅遊</B> (RWD)</a> <BR>
-  <a href="https://joechen0730.github.io/trvaltime/"><img src="amazingtrval.png" width="500" height="230"><BR></a><BR>
-  ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電) <BR>
-  ⌞ 使用多種動畫進場特校<BR>
-  ⌞ 加入輪播及位置條，在不同的區塊，位置條會顯示所在的區域<BR>
-  
-- <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><B>健康小檢驗-算算 BMI </B> </a> <BR>
-  <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><img src="bmi-page.png" width="500" height="230"></a> <BR>
-     
-  ⌞ 透過 Javascript 實現數學計算、並擁有 Todo-list (新增、完成與刪除事件) <BR> 
-  ⌞ 根據輸入不同的資料，給予不同顏色條的BMI作為回復<BR>
-  ⌞ 使用網頁暫存將資料暫存在網頁中，需要手動刪除才可將資料移除。<BR>
-  
-  
-- <a href="https://joechen0730.github.io/diner/" target="blank"><B>大堡一餐 diner(RWD) </B> </a> <BR>
-  <a href="https://joechen0730.github.io/diner/" target="blank"> <img src="diner.png" width="500" height="230"></a><BR>
- 
-  ⌞ Bootstrap 快速搭建響應式網頁 + RWD 。 <BR>
-  ⌞ 加入進場特效使顧客有不同的使用體驗<BR>
-  ⌞ 使用視差滾動呈現前後漸層效果<BR>
-  ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
-  ⌞ 透過多方參考，並自行設計UI/UX界面。<BR>
-  
-
+  ⌞ 做出時間差模組，可得知當下發文時間及當前時間相差多少 Ex: fb 時間戳，IG時間戳 等等．．。<BR>  
+       
 - <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><B>Joe's Shop 電子商務網站(RWD)(多頁式) </B> </a> <BR>
   <a href="https://joechen0730.github.io/Joe-shop/" target="blank"><img src="Joe's-shop.jpg" width="500" height="230"></a><BR>
   ⌞ Bootstrap並修改部分Bootstrap原件建立獨一無二的網站(RWD) 。 <BR>
@@ -123,8 +99,29 @@
   ⌞ 加入購物車及登入、註冊之功能。<BR>
   ⌞ 主頁、商品頁、結帳頁都擁有RWD，在較小的頁面中，提高UX的體驗性，將按鈕及商品、文字皆放大，創造大眾電子商務無 RWD 之功能<BR>
   ⌞ *輪播圖片擷取自蝦皮拍賣，此網站僅供自己練習及投遞履歷使用，無任何商業及營利之行為。<BR>
-  
-  
+   
+- <a href="https://joechen0730.github.io/diner/" target="blank"><B>大堡一餐 diner(RWD) </B> </a> <BR>
+  <a href="https://joechen0730.github.io/diner/" target="blank"> <img src="diner.png" width="500" height="230"></a><BR>
+ 
+  ⌞ Bootstrap 快速搭建響應式網頁 + RWD 。 <BR>
+  ⌞ 加入進場特效使顧客有不同的使用體驗<BR>
+  ⌞ 使用視差滾動呈現前後漸層效果<BR>
+  ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
+  ⌞ 透過多方參考，並自行設計UI/UX界面。<BR>
+
+- <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><B>健康小檢驗-算算 BMI </B> </a> <BR>
+  <a href="https://joechen1.000webhostapp.com/bmi/" target="blank"><img src="bmi-page.png" width="500" height="230"></a> <BR>
+     
+  ⌞ 透過 Javascript 實現數學計算、並擁有 Todo-list (新增、完成與刪除事件) <BR> 
+  ⌞ 根據輸入不同的資料，給予不同顏色條的 BMI 作為回復<BR>
+  ⌞ 使用網頁暫存將資料暫存在網頁中，需要手動刪除才可將資料移除。<BR>
+
+- <a href="https://joechen0730.github.io/trvaltime/"><B>驚奇旅遊</B> (RWD)</a> <BR>
+  <a href="https://joechen0730.github.io/trvaltime/"><img src="amazingtrval.png" width="500" height="230"><BR></a><BR>
+  ⌞ 建立三種大眾常用的響應式網頁(手機、平板、桌電) <BR>
+  ⌞ 使用多種動畫進場特校<BR>
+  ⌞ 加入輪播及位置條，在不同的區塊，位置條會顯示所在的區域<BR>
+    
 - <a href="#" target="blank"><B>Jos's形象網站 (建置中尚未完成)</B></a><BR>
   <img src="header.jpg" width="500" height="230"><BR>
  
