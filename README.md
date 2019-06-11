@@ -7,15 +7,17 @@
 <hr>
 
 ### 專業技能
-- 熟悉 Vue 前端框架並搭配bootstrap做開發，將前後端分離，並達成 SPA 的概念
-- 熟悉 Javascript ES6、ES5語法，並熟悉 Jquery 操控Dom元素、呈現網頁動態效果。
+- 熟悉 Vue 前端框架並搭配bootstrap做開發，將前後端分離，並達成 SPA 的概念。
+- 熟悉 Javascript ES6、ES5語法。
+- 熟悉 jQuery Plugin 整合第三方插件動畫效果
 - 熟悉 Bootstrap 快速開發響應式網頁並且客製Bootstrap元件內容達到客戶想要的樣式。
 - 熟悉 Git 做版本控制。
 - 熟悉 HTML5 : 熟悉應用HTML標籤，熟悉如何切版且不依賴Bootstrap切出客戶需求的頁面
-- 熟悉 CSS/Sass : 熟悉排版 了解如何正確使用display(flex、position、z-index、box-model、grid),熟悉pseudo element
+- 熟悉 CSS : 熟悉排版 了解如何正確使用display(grid、flex、position、z-index、box-model、grid),熟悉pseudo element
+- 熟悉 Sass / SCSS : 將重用性的CSS模組化，加速開發並提高維護性
 - 熟悉 響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版；手機、平板、桌電三種適用的頁面
-- 使用 Git GUI/sourcetree 圖形化介面做版本控制
-- 使用 AJAX Promise(Axios套件)撈取遠端後端資料並渲染在網頁上、透過AJAX使用RESTful理念操作。
+- 使用 Git / Git GUI 做版本控制
+- 使用 AJAX , Promise(Axios套件) 撈取遠端後端資料並渲染在網頁上、透過AJAX使用RESTful理念操作。
 - 使用 D3.js 及 C3.js 繪製各式動態圖表
 - 使用 Gulp,Webpack 壓縮檔案並提高網頁效率。
 - 使用 Photoshop 進行視覺流程製作，並將圖檔壓縮及改為SVG，提高載入效率。
@@ -28,6 +30,14 @@
 
 -  工作期間 2018/03 - 2019/05  慕恩創意行銷網頁設計公司 <BR>
    職位:前端工程師<BR>
+   <br>
+   * 多種活動網站
+     * 優化效能 - 提升網頁載入時間 
+     * FB追蹤、Google追蹤 - 點擊及轉換
+     * 客製化響應式介面
+   * 形象網站
+     * 優化效能 - 模組共用 / 提昇網頁載入時間 / 提升維護品質 
+     * 善用 Plugin，達到多種特效
 -  工作期間 2012 - 2017 全家便利商店  直營店<BR>
    職位:副店長<BR>
 -  工作期間 2014 - 2015 麥當勞  直營店<BR>
@@ -55,7 +65,7 @@
   ⌞ 使用 Vue 框架完成，再資料獲取完及運算後渲染至頁面。<BR>
   ⌞ 透過AJAX技術(Axios) 取得 Json資料。<BR>
   ⌞ 做出彈跳視窗，將你所點選該地區的資料透過Vue存取資料後並顯示該當地區域的資訊。<BR>
-  ⌞ 動態取得點擊資訊，將資料緩存應用，提升使用者瀏覽體驗。<BR>
+  ⌞ 動態取得點擊資訊，將資料透過 computed 將緩存應用，提升使用者瀏覽體驗。<BR>
   
  # Taiwan-weather
  - <a href="https://joechen0730.github.io/Taiwan-weather/" target="blank"><B>Taiwan Weather</B></a> <BR>
@@ -66,7 +76,18 @@
    ⌞ 使用 c3.js 搭配 Axios 動態取得預測天氣，並渲染到頁面上<BR>
    ⌞ Support for more than tablet (最低支援到平板以上)<BR>
   
- 
+# Vuex-todolist
+- <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><B>Vuex-todolist</B> (RWD)</a> <BR>
+  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="vuetodo.png" width="700" height="300"><BR></a> <BR>
+  
+  ### 可雙擊後修改資料，並且加上時間戳來顯示上次新增時與現在的時間差 <BR>
+  <a href="https://joechen0730.github.io/Vuex-todolist/" target="_blank"><img src="vuetodo.png" width="700" height="300">      <BR></a> 
+    <BR>
+  ⌞ 使用 Vue cli3 ，並用 Vuex store 將資料集中管理。<BR>
+  ⌞ 使用 router 偵測路由狀況及獲取資料。
+  ⌞ 透過 localStoge 將資料儲存在本地端網頁中，使下次開網頁時並不會被清空。<BR>
+  ⌞ 將資料透過 computed 暫存，優化網頁速度及運算時間。<BR>
+  ⌞ 做出時間差模組，可得知當下發文時間及當前時間相差多少 Ex: fb 時間戳，IG時間戳 等等．．。<BR>    
 
 - <a href="https://joechen0730.github.io/trvaltime/"><B>驚奇旅遊</B> (RWD)</a> <BR>
   <a href="https://joechen0730.github.io/trvaltime/"><img src="amazingtrval.png" width="500" height="230"><BR></a><BR>
