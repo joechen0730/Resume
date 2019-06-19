@@ -4,7 +4,7 @@
 - Location: New Taipei City
 - E-mail: yes852956@gmail.com
 - Mobile: 0937-791-264
-- 線上技術及心得筆記本 : https://medium.com/@yes852956 (會漸漸從原本 Evernote 轉移心得及筆記至 Medium)
+- 線上技術及心得筆記本 : https://medium.com/joelifestory (會漸漸從原本 Evernote 轉移心得及筆記至 Medium)
 <hr>
 
 ### 專業技能
