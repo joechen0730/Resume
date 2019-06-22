@@ -12,12 +12,11 @@
 - 熟悉 Javascript ES6、ES5語法。
 - 熟悉 jQuery Plugin 整合第三方插件動畫效果
 - 熟悉 Bootstrap 快速開發響應式網頁並且客製Bootstrap元件內容達到客戶想要的樣式。
-- 熟悉 Git 做版本控制。
+- 熟悉 Git / Git GUI 做版本控制
 - 熟悉 HTML5 : 熟悉應用HTML標籤，熟悉如何切版且不依賴Bootstrap切出客戶需求的頁面
 - 熟悉 CSS : 熟悉排版 了解如何正確使用display(grid、flex、position、z-index、box-model、grid),熟悉pseudo element
 - 熟悉 Sass / SCSS : 將重用性的CSS模組化，加速開發並提高維護性
 - 熟悉 響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版；手機、平板、桌電三種適用的頁面
-- 使用 Git / Git GUI 做版本控制
 - 使用 AJAX , Promise(Axios套件) 撈取遠端後端資料並渲染在網頁上、透過AJAX使用RESTful理念操作。
 - 使用 D3.js 及 C3.js 繪製各式動態圖表
 - 使用 Gulp,Webpack 壓縮檔案並提高網頁效率。
