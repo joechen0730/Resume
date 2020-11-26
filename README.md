@@ -12,7 +12,7 @@
 - 熟悉 Javascript ES6、ES5語法。
 - 熟悉 jQuery 並整合使用 jQuery 第三方套件
 - 熟悉 Bootstrap 快速開發響應式網頁並且客製 Bootstrap 元件內容達到客戶想要的樣式。
-- 熟悉 Git / Git GUI 做版本控制
+- 熟悉 Git / Git，並透過 Git flow 流程多人協同完成專案
 - 熟悉 HTML5 : 熟悉應用 HTML 標籤，熟悉如何切版且不依賴 Bootstrap 切出客戶需求的頁面
 - 熟悉 CSS3 : 熟悉排版 了解如何正確使用 display(grid、flex、position、z-index、box-model、grid),熟悉 pseudo element
 - 熟悉 Sass / SCSS : 將重用性的 CSS 模組化，加速開發並提高維護性
