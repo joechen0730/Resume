@@ -10,24 +10,42 @@
 ### 專業技能
 - 熟悉 Vue 前端框架並搭配bootstrap做開發，將前後端分離，並達成 SPA 的概念。
 - 熟悉 Javascript ES6、ES5語法。
-- 熟悉 jQuery Plugin 整合第三方插件動畫效果
+- 熟悉 jQuery 並整合使用 jQuery 第三方套件
 - 熟悉 Bootstrap 快速開發響應式網頁並且客製Bootstrap元件內容達到客戶想要的樣式。
 - 熟悉 Git / Git GUI 做版本控制
 - 熟悉 HTML5 : 熟悉應用HTML標籤，熟悉如何切版且不依賴Bootstrap切出客戶需求的頁面
-- 熟悉 CSS : 熟悉排版 了解如何正確使用display(grid、flex、position、z-index、box-model、grid),熟悉pseudo element
-- 熟悉 Sass / SCSS : 將重用性的CSS模組化，加速開發並提高維護性
+- 熟悉 CSS3 : 熟悉排版 了解如何正確使用 display(grid、flex、position、z-index、box-model、grid),熟悉 pseudo element
+- 熟悉 Sass / SCSS : 將重用性的 CSS 模組化，加速開發並提高維護性
 - 熟悉 響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版；手機、平板、桌電三種適用的頁面
-- 使用 AJAX , Promise(Axios套件) 撈取遠端後端資料並渲染在網頁上、透過AJAX使用RESTful理念操作。
+- 熟悉 AWS 基礎知識，使用 AWS 服務來協助專案進行並完成客戶需求
+- 使用 Vuex, Nuxt 來完成前後端分離並透過 Vuex 來統一管理資料狀態
+- 使用 AJAX , Promise(Axios套件) 撈取遠端後端資料並渲染在網頁上、透過 AJAX 使用 RESTful 理念操作
 - 使用 D3.js 及 C3.js 繪製各式動態圖表
-- 使用 Gulp,Webpack 壓縮檔案並提高網頁效率。
-- 使用 Photoshop 進行視覺流程製作，並將圖檔壓縮及改為SVG，提高載入效率。
-- 使用過多種Plugin 搭配網頁達到多種特效，加速網頁開發
-* 了解SEO搜尋引擎優化；建立有效率且易維護的程式碼；了解相容性；有良好習慣性的註解以便維護及修改
-* CSS Style遵循 (OOCSS、BEM 之風格)，以便利後續維護及重複使用性
+- 使用 Gulp, Webpack 壓縮檔案並提高網頁效率
+- 使用 Photoshop 進行視覺流程製作，並將圖檔壓縮及改為 SVG，提高載入效率
+- 使用過多種 Plugin 搭配網頁達到多種特效，加速網頁開發
+- 使用並基礎了解後端運作 PHP,資料庫及 MySQL 語法
+* 了解 SEO 搜尋引擎優化；了解 Google Analysit；了解相容性；有良好習慣性的註解以便維護及修改
+* CSS Style 遵循 (OOCSS、BEM 之風格)，以便利後續維護及重複使用性
+* JavaScript Coding Style 遵循 ESLint 風格，以利後續維護及閱讀。 
+* 已考取 AWS Cloud-Practitioner, AWS DevOps-Engineer-Professional 證照
 <hr>
 
 ### 工作經驗 
-
+-  工作期間 2019/07 - 在職 <BR>
+   職位:專案工程師 <BR>
+   * 一人維護及優化內部所有系統
+      * EDM 系統
+      * 維護官方網站及後台，並建立自動化流程
+      * 優化 SEO、效能 及 Google 事件分析
+      * 定期備份資料並且優化內部舊有程式碼
+   * 協助建立新系統
+      * 建置優惠卷系統 F2E 並且完成頁面邏輯
+      * 建置新帳務系統 F2E 並串接 API 及各式圖表
+   * 完成 AWS 客戶需求及應用 AWS 相關技術
+      * 使用 AWS 服務建置 LAB DEMO 環境並提供給客戶參照
+      * 考取 AWS 證照 (AWS Cloud-Practitioner, AWS DevOps-Engineer-Professional) 證照
+      * 協助公司完成 AWS 稽核項目
 -  工作期間 2018/03 - 2019/05 慕恩創意行銷網頁設計公司 <BR>
    職位:前端工程師<BR>
    * 多種活動網站
@@ -37,14 +55,15 @@
    * 形象網站
      * 優化效能 - 模組共用 / 提昇網頁載入時間 / 提升維護品質 
      * 善用 Plugin，達到多種特效
-     * 與 designer 共同討論版型、特效及 UI/UX 效果及流程 
+     * 與 Designer 共同討論版型、特效及 UI/UX 效果及流程 
    * 維護舊有網站及備份資料
 -  工作期間 2012 - 2017 全家便利商店 直營店<BR>
    職位:副店長<BR>
 -  工作期間 2014 - 2015 麥當勞 直營店<BR>
    職位:工讀生<BR>
 <hr>
-
+### 相關證照
+ - 
 ### 作品集 
  # 匯率兌換網站 (Vue-Eate) 
  - <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><B>匯率兌換網站</B> (RWD)</a> <BR>
