@@ -63,13 +63,16 @@
    職位:工讀生<BR>
 <hr>
 ### 相關證照
- - 
+ - AWS Certified DevOps Engineer Professional
+   <img src="AWS-Certified-DevOps-Engineer-Professional-certificate.jpg" width="500" height="230"><BR>
+ - AWS Certified Cloud Practitioner
+   <img src="AWS-Certified-Cloud-Practitioner-certificate.jpg" width="500" height="230"><BR>
 ### 作品集 
  # 匯率兌換網站 (Vue-Eate) 
  - <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><B>匯率兌換網站</B> (RWD)</a> <BR>
    <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><img src="home-tw.jpg" width="900" height="500"><BR></a> <BR>
    <img src="ga.jpg" width="900" height="500"><BR>
-   ⌞使用 Vue cli3 ，並用 i18n 支持多語言（中 / 英) 。<BR>
+   ⌞ 使用 Vue cli3 ，並用 i18n 支持多語言（中 / 英) 。<BR>
    ⌞ 使用 MVVM 資料綁定的方式，可在下方表格輸入貨幣金額並且立馬轉換。<BR>
    ⌞ 透過 node.js 線上資料庫每日抓取新 API資料 <BR>
    ⌞ 動態偵測網址切換後可直接更改語系(Tw or En) <BR>
