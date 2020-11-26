@@ -62,11 +62,13 @@
 -  工作期間 2014 - 2015 麥當勞 直營店<BR>
    職位:工讀生<BR>
 <hr>
+   
 ### 相關證照
  - AWS Certified DevOps Engineer Professional
-   <img src="AWS-Certified-DevOps-Engineer-Professional-certificate.jpg" width="500" height="230"><BR>
+   <img src="AWS-Certified-DevOps-Engineer-Professional-certificate.jpg" width="500" height="280"><BR>
  - AWS Certified Cloud Practitioner
-   <img src="AWS-Certified-Cloud-Practitioner-certificate.jpg" width="500" height="230"><BR>
+   <img src="AWS-Certified-Cloud-Practitioner-certificate.jpg" width="500" height="280"><BR>
+
 ### 作品集 
  # 匯率兌換網站 (Vue-Eate) 
  - <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><B>匯率兌換網站</B> (RWD)</a> <BR>
