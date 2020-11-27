@@ -73,9 +73,9 @@
  # 線上書商網站 (booknote)
  - <a href="https://joechen0730.github.io/booknote/" target="blank"><B>Booknote</B> (RWD)</a> <BR>
    <a href="https://joechen0730.github.io/booknote/" target="blank"><img src="booknote_index.png" width="900" height="500"><BR></a> <BR>
-   <img src="booknote_cart.png" width="400" height="300">
-   <img src="booknote_backend_dashbord.png" width="400" height="300">
-   <img src="booknote_backend_uploadpic.png" width="400" height="300"><BR>
+   <img src="booknote_cart.png" width="450" height="300">
+   <img src="booknote_backend_dashbord.png" width="450" height="300">
+   <img src="booknote_backend_uploadpic.png" width="500" height="300"><BR>
    ⌞ 使用 Vuex 以及 Nuxt 完成，並用 i18n 支持多語言（中 / 英) 。<BR>
    ⌞ 設計 UI/UX 並製作較完整的購物網站流程，含前台跟後台以及購物車頁面等等。<BR>
    ⌞ 使用 Cookies 來記錄使用者登入狀態及當前搜尋書本關鍵字 <BR>
