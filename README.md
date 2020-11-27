@@ -70,6 +70,15 @@
    <img src="AWS-Certified-Cloud-Practitioner-certificate.jpg" width="500" height="280"><BR>
 
 ### 作品集 
+ # 線上書商網站 (booknote)
+ - <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><B>Booknote</B> (RWD)</a> <BR>
+   <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><img src="home-tw.jpg" width="900" height="500"><BR></a> <BR>
+   ⌞ 使用 Vuex 以及 Nuxt 完成，並用 i18n 支持多語言（中 / 英) 。<BR>
+   ⌞ 設計 UI/UX 並製作較完整的購物網站流程，含前台跟後台以及購物車頁面等等。<BR>
+   ⌞ 使用 Cookies 來記錄使用者登入狀態及當前搜尋書本關鍵字 <BR>
+   ⌞ 使用 RESTful API 來完成後台的商品及上傳 CRUD 功能 <BR>
+   ⌞ 使用 Google Analytics 來追蹤網站成效，並且設定轉換率確認使用者停留頁面等等事件<BR>
+      
  # 匯率兌換網站 (Vue-Eate) 
  - <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><B>匯率兌換網站</B> (RWD)</a> <BR>
    <a href="https://joechen0730.github.io/Vue-Eate/" target="blank"><img src="home-tw.jpg" width="900" height="500"><BR></a> <BR>
@@ -81,7 +90,7 @@
    ⌞ 匯率兌換時，透過參數將值放置網址並且編碼傳送至兌換頁面，重整後解析一樣可得相同數值<BR>
    ⌞ 使用 Google Analytics 來追蹤網站成效，並且設定轉換率確認使用者停留頁面等等事件<BR>
    ⌞ 使用 vue-router 製作 SPA 網站 <BR>
-   ⌞ 與<a href="https://github.com/Mix-Liten" target="blank"> Mix-Liten </a>好友透過 Git 共同完成。
+   ⌞ 與<a href="https://github.com/Mix-Liten" target="blank"> Mix-Liten </a>好友透過 Git 共同完成。<BR>
     
  # 高雄旅遊資訊 (Kaohsiung-Travel)
  - <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
