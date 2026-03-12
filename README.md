@@ -2,12 +2,26 @@
 - Birthday: 1993/07/30
 - Education:景文科技大學 / 電子工程系
 - Location: New Taipei City
-- E-mail: yes852956@gmail.com
+- E-mail: shixun0730@gmail.com
 - Mobile: 0937-791-264
 - 線上技術及心得筆記本 : https://medium.com/joelifestory (會漸漸從原本 Evernote 轉移心得及筆記至 Medium)
 <hr>
 
-### 專業技能
+<h2 align="center">Skills</h2>
+<div align="center">
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+   <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+   <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</div>
+
 - 熟悉 Vue、React 前端框架並搭配 Bootstrap、Ant Design 做開發，將前後端分離，並達成 SPA 的概念。
 - 熟悉 Javascript ES6、ES5語法。
 - 熟悉 jQuery 並整合使用 jQuery 第三方套件
