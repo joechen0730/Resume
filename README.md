@@ -7,50 +7,6 @@
 - 線上技術及心得筆記本 : https://medium.com/joelifestory (會漸漸從原本 Evernote 轉移心得及筆記至 Medium)
 <hr>
 
-### 專業技能
-- 熟悉 Vue、React 前端框架並搭配 Bootstrap、Ant Design 做開發，將前後端分離，並達成 SPA 的概念。
-- 熟悉 Javascript ES6、ES5語法。
-- 熟悉 jQuery 並整合使用 jQuery 第三方套件
-- 熟悉 Bootstrap、Ant Design 快速開發響應式網頁並且客製 Bootstrap、Ant Design 元件內容達到客戶想要的樣式。
-- 熟悉 Git / Git，並透過 Git flow 流程多人協同完成專案
-- 熟悉 HTML5 : 熟悉應用 HTML 標籤，熟悉如何切版且不依賴 Bootstrap 切出客戶需求的頁面
-- 熟悉 CSS3 : 熟悉排版 了解如何正確使用 display(grid、flex、position、z-index、box-model、grid),熟悉 pseudo element
-- 熟悉 Sass / SCSS / Tailwind CSS : 將重用性的 CSS 模組化，加速開發並提高維護性
-- 熟悉 響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版；手機、平板、桌電三種適用的頁面
-- 熟悉 AWS 基礎知識，使用 AWS 服務來協助專案進行並完成客戶需求
-- 使用 Vue3 Vuex, Nuxt.js 、React 、Next.js 來完成前後端分離並透過 Vuex 來統一管理資料狀態
-- 使用 AJAX , Promise(Axios套件) 撈取遠端後端資料並渲染在網頁上、透過 AJAX 使用 RESTful 理念操作
-- 使用 D3.js 及 C3.js 繪製各式動態圖表
-- 使用 Gulp, Webpack 壓縮檔案並提高網頁效率，並將圖檔壓縮及改為 SVG，提高載入效率
-- 使用過多種 Plugin 搭配網頁達到多種特效，加速網頁開發
-- 使用並基礎了解後端運作 PHP,資料庫及 MySQL 語法
-* 了解 SEO 搜尋引擎優化；了解 Google Analysit；了解相容性；有良好習慣性的註解以便維護及修改
-* CSS Style 遵循 (OOCSS、BEM 之風格)，以便利後續維護及重複使用性
-* JavaScript Coding Style 遵循 ESLint 風格，以利後續維護及閱讀。 
-* 已考取 AWS Cloud-Practitioner, AWS DevOps-Engineer-Professional 、Google Certified Professional Cloud Architect證照
-<hr>
-
-### 工作經驗
--  工作期間 2025/07 - 2026/08 Deloitte CKmates <BR>
-   職位:專案工程師 <BR>
-   * 零信任架構(ZTA)⾵⾵險評估專案險評估專案
-      * 獨立作業並執⾏超過五家以上⾦融集團公司的零信任五⼤⽀柱架構訪談、風險訪談。
-      * 根據後續訪談結果及客戶實際狀況，並製作改善建議報告、短中長期報告可作為建議報告提供給客戶使用。
-      * 提供各項 POC、導⼊解決⽅案給客戶選擇，並持續提供建議及確認執行內容有符合零信任項次條件，並完成零到一的一條龍服務。
-   * 雲端架構健檢評估專案
-      * 執⾏超過多家金融公司客戶，根據現有雲端架構做雲端架構⾵險評估
-      * 產出評估報告以及建議報告，並持續協助客戶改善雲端架構資安⾵險疑慮
-   * 建置公司內部AI報告平台:
-      * 使⽤ Vue 3 開發及建置前端畫⾯並與串接API，且根據使⽤者需求規劃及製作 UI/UX
-      * 接後端同仁使⽤AWS Lambda 及 AWS Bedrock 並透過上傳及下載可以建置屬於公司的知識庫
-      * 製作AI聊天室，可即時透過 AWS Bedrock 來完成AI (Joe Chen) 
-- Birthday: 1993/07/30
-- Education:景文科技大學 / 電子工程系
-- Location: New Taipei City
-- E-mail: yes852956@gmail.com
-- Mobile: 0937-791-264
-- 線上技術及心得筆記本 : https://medium.com/joelifestory (會漸漸從原本 Evernote 轉移心得及筆記至 Medium)
-<hr>
 
 ### 專業技能
 - 熟悉 Vue、React 前端框架並搭配 Bootstrap、Ant Design 做開發，將前後端分離，並達成 SPA 的概念。
@@ -77,7 +33,7 @@
 
 ### 工作經驗
 -  工作期間 2025/07 - 2026/08 Deloitte CKmates <BR>
-   職位:專案工程師 <BR>
+   職位:資訊風險諮詢經理 <BR>
    * 零信任架構(ZTA)⾵⾵險評估專案險評估專案
       * 獨立作業並執⾏超過五家以上⾦融集團公司的零信任五⼤⽀柱架構訪談、風險訪談。
       * 根據後續訪談結果及客戶實際狀況，並製作改善建議報告、短中長期報告可作為建議報告提供給客戶使用。
