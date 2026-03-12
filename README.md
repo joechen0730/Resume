@@ -84,6 +84,8 @@
 <hr>
    
 ### 相關證照
+ - GCP ProfessionalCloudArchitect <BR >
+   <img src="GCP-ProfessionalCloudArchitect.JPG" width="500" height="280"><BR>
  - AWS Certified DevOps Engineer Professional <BR>
    <img src="AWS-Certified-DevOps-Engineer-Professional-certificate.jpg" width="500" height="280"><BR>
  - AWS Certified Cloud Practitioner <BR>
