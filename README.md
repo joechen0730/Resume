@@ -7,8 +7,6 @@
 - 線上技術及心得筆記本 : https://medium.com/joelifestory (會漸漸從原本 Evernote 轉移心得及筆記至 Medium)
 <hr>
 
-
-
 ### 專業技能
 - 熟悉 Vue、React 前端框架並搭配 Bootstrap、Ant Design 做開發，將前後端分離，並達成 SPA 的概念。
 - 熟悉 Javascript ES6、ES5語法。
@@ -49,7 +47,7 @@
       * 製作聊天室畫面，串接AWS Bedrock 來完成 AI ChatBOT，可提供同仁詢問相關內容。
    * 製作各項⽂件及主管交辦之報告:
       * 根據主管之需求，製作各項簡報並提供給主管提案使⽤等等，例如製作 CICD簡報、微服物(Microservices)簡報等等。
-## 銓鍇國際 CKmates<BR>
+## CKmates 銓鍇國際<BR>
 -  工作期間 2019/07 - 2025/04 <BR>
    職位:高級工程師 <BR>
    * 重構公司帳務平台系統
@@ -70,7 +68,7 @@
       * 使用 AWS 服務建置 LAB DEMO 環境並提供給客戶參照
       * 考取 AWS 證照 (AWS Cloud-Practitioner, AWS DevOps-Engineer-Professional) 證照
       * 協助公司完成 AWS 稽核項目
-## 慕恩創意行銷網頁設計公司 Moveon<BR>
+## Moveon 慕恩創意行銷網頁設計公司<BR>
 -  工作期間 2018/03 - 2019/05 <BR>
    職位:前端工程師<BR>
    * 多種活動網站
