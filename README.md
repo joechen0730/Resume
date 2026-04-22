@@ -22,27 +22,51 @@
    <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
 
-- 熟悉 Vue、React 前端框架並搭配 Bootstrap、Ant Design 做開發，將前後端分離，並達成 SPA 的概念。
+## 前端技能：
+- 熟悉並實作 Vue 及 Next.js 框架並搭配 Bootstrap 或 TaiwindCSS 做開發，將前後端分離，並達成 SPA 的概念，並熟悉 Vuex 來統一管理資料狀態。
+- 熟悉並實作 React 及 Nuxt.js 框架並搭配 Ant Design 或 TaiwindCSS 做開發，將前後端分離，並達成 SPA 的概念，並熟悉 Redux 來統一管理資料狀態。
 - 熟悉 Javascript ES6、ES5語法。
 - 熟悉 jQuery 並整合使用 jQuery 第三方套件
 - 熟悉 Bootstrap、Ant Design 快速開發響應式網頁並且客製 Bootstrap、Ant Design 元件內容達到客戶想要的樣式。
-- 熟悉 Git / Git，並透過 Git flow 流程多人協同完成專案
-- 熟悉 HTML5 : 熟悉應用 HTML 標籤，熟悉如何切版且不依賴 Bootstrap 切出客戶需求的頁面
+- 熟悉 HTML5 : 熟悉應用 HTML 標籤，熟悉如何切版且不依賴套件切出客戶需求的頁面
 - 熟悉 CSS3 : 熟悉排版 了解如何正確使用 display(grid、flex、position、z-index、box-model、grid),熟悉 pseudo element
 - 熟悉 Sass / SCSS / Tailwind CSS : 將重用性的 CSS 模組化，加速開發並提高維護性
 - 熟悉 響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版；手機、平板、桌電三種適用的頁面
 - 熟悉 AWS 基礎知識，使用 AWS 服務來協助專案進行並完成客戶需求
-- 使用 Vue3 Vuex, Nuxt.js 、React 、Next.js 來完成前後端分離並透過 Vuex 來統一管理資料狀態
+- 使用 Vue3 Vuex, Nuxt.js 、React 、Next.js 來完成前後端分離並透過 
 - 使用 AJAX , Promise(Axios套件) 撈取遠端後端資料並渲染在網頁上、透過 AJAX 使用 RESTful 理念操作
 - 使用 D3.js 及 C3.js 繪製各式動態圖表
-- 使用 Gulp, Webpack 壓縮檔案並提高網頁效率，並將圖檔壓縮及改為 SVG，提高載入效率
+- 使用 Gulp, Webpack 壓縮檔案並提高網頁效率，並將圖檔壓縮後改為 Webp，提高載入效率減少 loading 並提升 SEO 評分
 - 使用過多種 Plugin 搭配網頁達到多種特效，加速網頁開發
 - 使用並基礎了解後端運作 PHP,資料庫及 MySQL 語法
-* 了解 SEO 搜尋引擎優化；了解 Google Analysit；了解相容性；有良好習慣性的註解以便維護及修改
-* CSS Style 遵循 (OOCSS、BEM 之風格)，以便利後續維護及重複使用性
-* JavaScript Coding Style 遵循 ESLint 風格，以利後續維護及閱讀。 
-* 已考取 AWS Cloud-Practitioner, AWS DevOps-Engineer-Professional 、Google Certified Professional Cloud Architect證照
+- CSS Style 遵循 (OOCSS、BEM 之風格)，以便利後續維護及重複使用性
+- JavaScript Coding Style 遵循 ESLint、JSLint 風格，以利後續維護及閱讀。 
+
+## AWS 雲端技能
+- 熟悉 AWS 各項基礎服務，如 AWS IAM、AWS VPC、AWS NATGateway等等。 
+- 設計並施作 AWS Web、App、DB 三層式雲端架構，並設置 LoadBalance 及 AWS Auto Scaling 來達成高可用性（High Availability）。 
+- 熟悉並建置 AWS CodePipeline 並透過 AWS CodeCommit、AWS CodeBuild、AWS CodeDeploy 來完成 CI/CD 之需求。
+- 熟悉並建置 Lambda 及串接 AWS API Gateway 來達成 RESTful API 串接，完成 Serverless 服務。
+- 熟悉使用 AWS SES 功能，曾將 SMTP 搬遷至 AWS SES 並製作硬退信及軟退信功能來過濾無效信箱，已此提高行銷部門有效客戶名單。
+- 熟悉使用 AWS CloudWatch，根據各項監控需求串接至 Slack 或透過 AWS SNS 將告警信寄送給主管及維運團隊。
+- 熟悉使用 AWS Config 及 AWS CloudTrail 根據需求客製規則，來完成稽核或追蹤資源變更或資安需求等等。
+- 熟悉使用 AWS S3並開啟快取來放置圖片、文件或靜態網站，並設置S3 lifecycle policy 或 S3 Glacier 來管控資料的生命週期或長期存放。
+- 熟悉並串接 AWS Cogito 來達到使用者註冊/登入和存取控制。
+- 了解 CloudFormation 並使用 AWS CDK 來達成 IaC 並透過 AWS CodePipeline 管控基礎設施資源。
+- 了解 AWS ECR 並透過 AWS CodePipeline 部署資源至 AWS EC2 或 AWS ECS
+
+## 其他技能
+- 熟悉 SEO 搜尋引擎優化，並實作及設置過 JSON-LD 及JSON Schema，並透過後端自動生成 Rebot.txt 來提昇 SEO 評分。
+- 熟悉 Google Analysit，並設置 GA、GTM 及設置事件轉換與漏斗分析，提供更多分析資料給行銷單位作為行銷決策。
+- 熟悉 Pagespeed Insights 並根據各項內容來調校網站效能，來提昇 Pagespeed Insights 分數以此提高自然排名。
+- 熟悉各瀏覽器相容性，並保有良好習慣性的註解以便維護及修改。
+
+## 專業證照
+- AWS Cloud Practitioner 證照
+- AWS DevOps Engineer Professional 證照
+- Google Certified Professional Cloud Architect 證照
 <hr>
+
 
 ### 工作經驗
 ## Deloitte 勤業眾信<BR>
