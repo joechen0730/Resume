@@ -23,31 +23,38 @@
 </div>
 
 ## 前端技能：
-- 熟悉並實作 Vue 及 Next.js 框架並搭配 Bootstrap 或 TaiwindCSS 做開發，將前後端分離，並達成 SPA 的概念，並熟悉 Vuex 來統一管理資料狀態。
-- 熟悉並實作 React 及 Nuxt.js 框架並搭配 Ant Design 或 TaiwindCSS 做開發，將前後端分離，並達成 SPA 的概念，並熟悉 Redux 來統一管理資料狀態。
-- 熟悉 Javascript ES6、ES5語法。
-- 熟悉 jQuery 並整合使用 jQuery 第三方套件
-- 熟悉 Bootstrap、Ant Design 快速開發響應式網頁並且客製 Bootstrap、Ant Design 元件內容達到客戶想要的樣式。
-- 熟悉 HTML5 : 熟悉應用 HTML 標籤，熟悉如何切版且不依賴套件切出客戶需求的頁面
-- 熟悉 CSS3 : 熟悉排版 了解如何正確使用 display(grid、flex、position、z-index、box-model、grid),熟悉 pseudo element
+### 現代化前端架構
+- 熟悉 Vue3 並理解 Vue Router/Composition API /lifecycle，並使用 Pinia 統一管理資料狀態
+- 熟悉 React (Hooks / Redux 等狀態管理與數據請求)
+- 熟悉 Nuxt.js 及 Nuxt.js 框架，並理解 App Router / Pages Router/ Middleware、實現 CSR、SSR
+
+### 介面與佈局
+- 熟悉 HTML5 (熟悉應用 HTML 標籤，針對 SEO 對應的 HTML 語意化標籤)
+- 熟悉 Bootstrap / Element UI/ Ant Design UI框架。
+- 熟悉 CSS3 (熟悉應用Flexbox / Grid、遵循 OOCSS 或 BEM 風格，以利維護及組件化)
 - 熟悉 Sass / SCSS / Tailwind CSS : 將重用性的 CSS 模組化，加速開發並提高維護性
-- 熟悉 響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版；手機、平板、桌電三種適用的頁面
-- 熟悉 AWS 基礎知識，使用 AWS 服務來協助專案進行並完成客戶需求
-- 使用 Vue3 Vuex, Nuxt.js 、React 、Next.js 來完成前後端分離並透過 
-- 使用 AJAX , Promise(Axios套件) 撈取遠端後端資料並渲染在網頁上、透過 AJAX 使用 RESTful 理念操作
-- 使用 D3.js 及 C3.js 繪製各式動態圖表
-- 使用 Gulp, Webpack 壓縮檔案並提高網頁效率，並將圖檔壓縮後改為 Webp，提高載入效率減少 loading 並提升 SEO 評分
-- 使用過多種 Plugin 搭配網頁達到多種特效，加速網頁開發
-- 使用並基礎了解後端運作 PHP,資料庫及 MySQL 語法
-- CSS Style 遵循 (OOCSS、BEM 之風格)，以便利後續維護及重複使用性
-- JavaScript Coding Style 遵循 ESLint、JSLint 風格，以利後續維護及閱讀。 
+- 熟悉 響應式網頁(RWD) : 熟悉可不依賴套件並手刻切版；可符合各裝置適用的頁面
+
+### 程式語言基礎
+- 熟悉 JavaScript / TypeScript (原生 DOM 操作、事件流處理及 ES6+ 語法、遵循 ESLint )
+- 熟悉 jQuery 並整合使用 jQuery 第三方套件
+- 使用 AJAX , Axios(理解並應用非同步Promise/Async/Await) 撈取遠端資料並渲染在網頁上、理解 API 介面規格 (RESTful API)
+- PHP、Python(具備基礎後端邏輯開發與維護經驗)
+
+### 前端工具 / 網站應用
+- Chart.js / D3.js / C3.js (繪製各式動態圖表並產出報表)
+- Jest (前端測試確保程式碼品質且無誤)
+- Gulp, Webpack (自動化打包或編譯，壓縮程式碼及圖片壓縮並轉換WebP格式、Split Chunks Plugin)
+- Lighthouse 調校 SEO 與效能提升 (實踐網頁負載優化、SEO優化及 CSRF、XSS 安全防護設計、熟悉 JSON-LD)
+- Google Analytics、Google Search Console、GTM(熟悉設置事件分析、漏斗轉換率)
+
 
 ## AWS 雲端技能
 - 熟悉 AWS 各項基礎服務，如 AWS IAM、AWS VPC、AWS NATGateway等等。 
-- 設計並施作 AWS Web、App、DB 三層式雲端架構，並設置 LoadBalance 及 AWS Auto Scaling 來達成高可用性（High Availability）。 
+- 設計並施作 AWS Web、AP、DB 三層式雲端架構，並設置 LoadBalance 及 AWS Auto Scaling 來達成高可用性（High Availability）。 
 - 熟悉並建置 AWS CodePipeline 並透過 AWS CodeCommit、AWS CodeBuild、AWS CodeDeploy 來完成 CI/CD 之需求。
 - 熟悉並建置 Lambda 及串接 AWS API Gateway 來達成 RESTful API 串接，完成 Serverless 服務。
-- 熟悉使用 AWS SES 功能，曾將 SMTP 搬遷至 AWS SES 並製作硬退信及軟退信功能來過濾無效信箱，已此提高行銷部門有效客戶名單。
+- 熟悉使用 AWS SES 功能，曾將 SMTP 搬遷至 AWS SES 並製作硬退信及軟退信功能，來過濾無效信箱，提高行銷部門有效客戶名單。
 - 熟悉使用 AWS CloudWatch，根據各項監控需求串接至 Slack 或透過 AWS SNS 將告警信寄送給主管及維運團隊。
 - 熟悉使用 AWS Config 及 AWS CloudTrail 根據需求客製規則，來完成稽核或追蹤資源變更或資安需求等等。
 - 熟悉使用 AWS S3並開啟快取來放置圖片、文件或靜態網站，並設置S3 lifecycle policy 或 S3 Glacier 來管控資料的生命週期或長期存放。
@@ -55,11 +62,15 @@
 - 了解 CloudFormation 並使用 AWS CDK 來達成 IaC 並透過 AWS CodePipeline 管控基礎設施資源。
 - 了解 AWS ECR 並透過 AWS CodePipeline 部署資源至 AWS EC2 或 AWS ECS
 
-## 其他技能
-- 熟悉 SEO 搜尋引擎優化，並實作及設置過 JSON-LD 及JSON Schema，並透過後端自動生成 Rebot.txt 來提昇 SEO 評分。
-- 熟悉 Google Analysit，並設置 GA、GTM 及設置事件轉換與漏斗分析，提供更多分析資料給行銷單位作為行銷決策。
-- 熟悉 Pagespeed Insights 並根據各項內容來調校網站效能，來提昇 Pagespeed Insights 分數以此提高自然排名。
-- 熟悉各瀏覽器相容性，並保有良好習慣性的註解以便維護及修改。
+## 工具/伺服器/資料庫
+- Docker (Docker Compose 定義多容器應用)
+- Jenkins (進行自動化部署管理測試與正式環境)
+- Postman、Swagger
+- Git、Commitizen(熟悉並應用 GitFlow、PR流程、理解 merge/ rebase、reflog)
+- Trello、Slack (參與執行 Scrum 敏捷式開發)
+- MySQL(具備基礎後開發與維護經驗)
+- Linux (shell script、crontab、基礎指令操作)
+- Apache(SSL憑證設定及更換、Cache 設定、Gzip、Cookie XSS、CSRF)
 
 ## 專業證照
 - AWS Cloud Practitioner 證照
@@ -68,16 +79,16 @@
 <hr>
 
 
-### 工作經驗
-## Deloitte 勤業眾信<BR>
+## 工作經驗
+### Deloitte 勤業眾信<BR>
 -  工作期間 2025/07 - 2026/08 <BR>
    職位:資訊風險諮詢經理 <BR>
    * 零信任架構(ZTA)⾵⾵險評估專案險評估專案
       * 獨立作業並執⾏超過五家以上⾦融集團公司的零信任五⼤⽀柱架構訪談、風險訪談。
-      * 根據後續訪談結果及客戶實際狀況，並製作改善建議報告、短中長期報告可作為建議報告提供給客戶使用。
-      * 提供各項 POC、導⼊解決⽅案給客戶選擇，並持續提供建議及確認執行內容有符合零信任項次條件，並完成零到一的一條龍服務。
+      * 根據後續訪談結果及客戶實際狀況，並製作改善建議報告、短中長期藍圖報告可作為建議報告提供給客戶使用。
+      * 提供各項 POC、導⼊解決⽅案給客戶選擇，並持續提供建議及確認執行內容有符合零信任項次條件，並完成 0 到 1的一條龍服務。
    * 雲端架構健檢評估專案
-      * 執⾏超過多家金融公司客戶，根據現有雲端架構做雲端架構⾵險評估
+      * 執⾏多家金融公司客戶，根據現有雲端架構做雲端架構⾵險評估
       * 產出評估報告以及建議報告，並持續協助客戶改善雲端架構資安⾵險疑慮
    * 建置公司內部AI報告平台:
       * 使⽤ Vue 3 開發及建置前端畫⾯並與串接API，且根據使⽤者需求規劃及製作 UI/UX
@@ -85,18 +96,18 @@
       * 製作聊天室畫面，串接AWS Bedrock 來完成 AI ChatBOT，可提供同仁詢問相關內容。
    * 製作各項⽂件及主管交辦之報告:
       * 根據主管之需求，製作各項簡報並提供給主管提案使⽤等等，例如製作 CICD簡報、微服物(Microservices)簡報等等。
-## CKmates 銓鍇國際<BR>
+### CKmates 銓鍇國際<BR>
 -  工作期間 2019/07 - 2025/04 <BR>
    職位:高級工程師 <BR>
-   * 重構公司帳務平台系統
-     * 使用 Next.js 將原先 Spring boot 架構作前後分離，重構及優化並製作 Middleware 中間層優化原先邏輯且相較易維護，來提升前端效能。
-     * 因前後端分離，與後端同仁規劃並討論所有 API 格式及串接。
+   * 重構核心系統 [帳務平台系統]
+     * 使用 Next.js 將原先 Spring boot 架構，透過前後分離來優化前端校能，重構及優化邏輯並製作 Middleware 中間層來驗證身分及預防XSS、CSRF攻擊。
+     * 因前後端分離，與後端同仁規劃並討論所有 API 格式並遵循RESTful API規範及串接API。
      * 製作單元測試及整合測試，確保版本更新前是正常運行且符合預期。
      * 透過 C3.js 及 D3.js 製作老闆及各主管想看到的圖表並輸出Excel提供給各部門主管使用。
      * 訪談各部門的使用者需求並製作 UI/UX ，以確保使用者體驗及功能要求有符合使用者需求。
-   * 一人維護及優化內部所有系統
+   * 獨立開發、維護及優化內部系統
       * EDM 系統
-      * 維護官方網站及後台，並建立自動化流程
+      * 維護官方網站前台及後台，並建立自動化流程
       * 優化 SEO、效能 及 Google 事件分析
       * 定期備份資料並且優化內部舊有程式碼
    * 協助建立新系統
@@ -106,7 +117,7 @@
       * 使用 AWS 服務建置 LAB DEMO 環境並提供給客戶參照
       * 考取 AWS 證照 (AWS Cloud-Practitioner, AWS DevOps-Engineer-Professional) 證照
       * 協助公司完成 AWS 稽核項目
-## Moveon 慕恩創意行銷網頁設計公司<BR>
+### Moveon 慕恩創意行銷網頁設計公司<BR>
 -  工作期間 2018/03 - 2019/05 <BR>
    職位:前端工程師<BR>
    * 多種活動網站
@@ -118,12 +129,6 @@
      * 善用 Plugin，達到多種特效
      * 與 Designer 共同討論版型、特效及 UI/UX 效果及流程 
    * 維護舊有網站及備份資料
-## 全家便利商店 大學工讀階段<BR>
--  工作期間 2012 - 2017 直營店<BR>
-   職位:工讀生<BR>
-## 麥當勞 大學工讀階段<BR>
--  工作期間 2014 - 2015 麥當勞 直營店<BR>
-   職位:工讀生<BR>
 <hr>
    
 ### 相關證照
@@ -158,7 +163,6 @@
    ⌞ 匯率兌換時，透過參數將值放置網址並且編碼傳送至兌換頁面，重整後解析一樣可得相同數值<BR>
    ⌞ 使用 Google Analytics 來追蹤網站成效，並且設定轉換率確認使用者停留頁面等等事件<BR>
    ⌞ 使用 vue-router 製作 SPA 網站 <BR>
-   ⌞ 與<a href="https://github.com/Mix-Liten" target="blank"> Mix-Liten </a>好友透過 Git 共同完成。<BR>
     
  # 高雄旅遊資訊 (Kaohsiung-Travel)
  - <a href="https://joechen0730.github.io/kaohsiung-travel/" target="blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
