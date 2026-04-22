@@ -87,36 +87,49 @@
       * 獨立作業並執⾏超過五家以上⾦融集團公司的零信任五⼤⽀柱架構訪談、風險訪談。
       * 根據後續訪談結果及客戶實際狀況，並製作改善建議報告、短中長期藍圖報告可作為建議報告提供給客戶使用。
       * 提供各項 POC、導⼊解決⽅案給客戶選擇，並持續提供建議及確認執行內容有符合零信任項次條件，並完成 0 到 1的一條龍服務。
-   * 雲端架構健檢評估專案
-      * 執⾏多家金融公司客戶，根據現有雲端架構做雲端架構⾵險評估
+   * 雲端架構健檢專案及資安合規評估
+      * 執⾏多家金融公司客戶，法規面如 CIS Benchmark、金融機構委外使用雲端自律規範等，評估客戶雲端場景，產出建議報告。
       * 產出評估報告以及建議報告，並持續協助客戶改善雲端架構資安⾵險疑慮
    * 建置公司內部AI報告平台:
       * 使⽤ Vue 3 開發及建置前端畫⾯並與串接API，且根據使⽤者需求規劃及製作 UI/UX
       * 接後端同仁使⽤AWS Lambda 及 AWS Bedrock 並透過上傳及下載可以建置屬於公司的知識庫
       * 製作聊天室畫面，串接AWS Bedrock 來完成 AI ChatBOT，可提供同仁詢問相關內容。
    * 製作各項⽂件及主管交辦之報告:
-      * 根據主管之需求，製作各項簡報並提供給主管提案使⽤等等，例如製作 CICD簡報、微服物(Microservices)簡報等等。
+      * 根據主管之需求，製作各項簡報並提供給主管提案使⽤，例如製作雲端/混合雲CICD簡報、微服務(Microservices)簡報等等。
 ### CKmates 銓鍇國際<BR>
 -  工作期間 2019/07 - 2025/04 <BR>
    職位:高級工程師 <BR>
    * 重構核心系統 [帳務平台系統]
-     * 使用 Next.js 將原先 Spring boot 架構，透過前後分離來優化前端校能，重構及優化邏輯並製作 Middleware 中間層來驗證身分及預防XSS、CSRF攻擊。
-     * 因前後端分離，與後端同仁規劃並討論所有 API 格式並遵循RESTful API規範及串接API。
-     * 製作單元測試及整合測試，確保版本更新前是正常運行且符合預期。
-     * 透過 C3.js 及 D3.js 製作老闆及各主管想看到的圖表並輸出Excel提供給各部門主管使用。
+     * 前後端分離架構: 使用 Next.js 並搭配Ant Design 來做為前端UI，與後端同仁設計 API 規格並串接 API，串接 AWS Cognito 做第三方身份驗證，並建置 Middleware 檢查身分驗證，並製作Access Token及Refresh Token。
+     * AP 雲端架構: 前端使用 Docker 映像，減少構建時間並 AWS ECR 並透過 AWS CodePipeline 部署資源至 AWS ECS， 從 0~1 定義新架構，徹底解決舊有系統效能與維護瓶頸
+     * 圖表呈現: 導入 Chart.js 與 D3.js 製作互動式圖表，實作 Excel 報表匯出與 PDF 帳單產生功能，加速財務作業流程
+     * 品質保證: 使用Jest 單元測試及整合測試，確保版本更新前是正常運行且符合預期。
      * 訪談各部門的使用者需求並製作 UI/UX ，以確保使用者體驗及功能要求有符合使用者需求。
-   * 獨立開發、維護及優化內部系統
-      * EDM 系統
-      * 維護官方網站前台及後台，並建立自動化流程
-      * 優化 SEO、效能 及 Google 事件分析
-      * 定期備份資料並且優化內部舊有程式碼
-   * 協助建立新系統
-      * 建置優惠卷系統 F2E 並且完成頁面邏輯
-      * 建置新帳務系統 F2E 並串接 API 及各式圖表
-   * 完成 AWS 客戶需求及應用 AWS 相關技術
-      * 使用 AWS 服務建置 LAB DEMO 環境並提供給客戶參照
-      * 考取 AWS 證照 (AWS Cloud-Practitioner, AWS DevOps-Engineer-Professional) 證照
-      * 協助公司完成 AWS 稽核項目
+   * 電子信箱 EDM系統：開發、維護及搬遷上雲
+      * E地端 Mail Server 系統上雲: 原先寄送上萬封信需要2~3 個小時，上雲改為 AWS SES 後僅需要 5 ~ 10分鐘即可完成，建立 Hard/Soft Bounce 機制（AWS PHP SDK），優化客戶名單品質。
+      * 跨系統功能整合: 開發活動報名系統，整合 EDM 與官網 API，提升行銷活動轉換率
+      * 編輯器工具串接AWS S3 : CKEditor 串接AWS S3， MKT 可上傳檔案及圖片至AWS S3，並使用CloudFront 快取。
+
+   * 官方網站前台及後台系統：網站開發與維護
+      * 重構底層架構 : 分離商業邏輯與畫面層，並運用 Code Splitting、Memoization 等技術，減少不必要的 re-render，提升效能與可維護性。
+      * 優化網頁品質: 導入 Gulp 自動化流程（壓縮、拆分、圖片 WebP 轉換），使用 Lazy Loading 延遲載入圖片、Youtube影片等等， Lighthouse 桌機分數由 34 提升至 72
+      * 提升網站效能及資安防護: Apache 設定 Cache 、啟用 Gzip 模組優化載入校能、設置 Cookie XSS、CSR提升資安防護
+      * 提升SEO 自然排名: 提升 SEO 自然排名，使用正確的HTML Tag 並設置JSON-LD結構化資料，透過後端每天自動生成 Sitemap 及 Rebot.txt 提昇 SEO 自然排名。
+      * Google Analytics : 規劃 Google Analytics 事件追蹤與轉換漏斗分析，支援行銷決策
+      * 優化部署流程 : 導入自動化流程，透過整合AWS CodePipeline CI/CD 提升部署效率。
+      * 服務狀態監控: 使用 AWS Cloudwatch 監控健康狀態並設置告警，並將告警串接至Slack，確保服務運作正常。
+
+   * 凱擘大寬頻 用戶節目推撥系統:
+      * 服務狀態監控: 使用 AWS Cloudwatch 設置多層告警分級，將告警串接至Slack 並透過AWS SNS 發送告警給維運團隊，確保服務運作正常。
+      * 使用 AWS CDK 實作 Infrastructure as Code（IaC） 並透過 AWS CodePipeline 管控基礎設施資源
+      * 高併發架構（Load Balancer + Auto Scaling + DynamoDB + DAX），確保高併發環境下的系統高可用性。
+      * 組態監控及異常排除: 使用 AWS Config 追蹤資源變更，並使用 AWS CloudTrail來追蹤API呼叫狀態及異常派除。
+
+   * 雲端專案
+      * Microservice PoC : 建置 AWS API Gateway 及 Lambda 達到Serverless，協助客戶微服務搬遷上雲
+      * AWS CICD 搬遷上雲 PoC:  協助客戶導入 AWS CodePipeline CI/CD，並建置 Lab 環境，完成實作 POC 專案
+
+
 ### Moveon 慕恩創意行銷網頁設計公司<BR>
 -  工作期間 2018/03 - 2019/05 <BR>
    職位:前端工程師<BR>
