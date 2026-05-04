@@ -52,15 +52,15 @@
 ## AWS 雲端技能
 - 熟悉 AWS 各項基礎服務，如 AWS IAM、AWS VPC、AWS NATGateway等等。 
 - 設計並施作 AWS Web、AP、DB 三層式雲端架構，並設置 LoadBalance 及 AWS Auto Scaling 來達成高可用性（High Availability）。 
-- 熟悉並建置 AWS CodePipeline 並透過 AWS CodeCommit、AWS CodeBuild、AWS CodeDeploy 來完成 CI/CD 之需求。
-- 熟悉並建置 Lambda 及串接 AWS API Gateway 來達成 RESTful API 串接，完成 Serverless 服務。
-- 熟悉使用 AWS SES 功能，曾將 SMTP 搬遷至 AWS SES 並製作硬退信及軟退信功能，來過濾無效信箱，提高行銷部門有效客戶名單。
-- 熟悉使用 AWS CloudWatch，根據各項監控需求串接至 Slack 或透過 AWS SNS 將告警信寄送給主管及維運團隊。
-- 熟悉使用 AWS Config 及 AWS CloudTrail 根據需求客製規則，來完成稽核或追蹤資源變更或資安需求等等。
-- 熟悉使用 AWS S3並開啟快取來放置圖片、文件或靜態網站，並設置S3 lifecycle policy 或 S3 Glacier 來管控資料的生命週期或長期存放。
-- 熟悉並串接 AWS Cogito 來達到使用者註冊/登入和存取控制。
-- 了解 CloudFormation 並使用 AWS CDK 來達成 IaC 並透過 AWS CodePipeline 管控基礎設施資源。
-- 了解 AWS ECR 並透過 AWS CodePipeline 部署資源至 AWS EC2 或 AWS ECS
+- 熟悉並建置 AWS CodePipeline 整合 AWS CodeCommit、AWS CodeBuild、AWS CodeDeploy 來完成 DevOps CI/CD 之需求。
+- 熟悉並建置 Lambda 及串接 AWS APIGateway 來達成 RESTful API 串接，完成微服務。
+- 熟悉使用 AWS SES 功能，地端 Mail Server 搬遷上雲至 AWS SES 並製作硬退信及軟退信功能，優化行銷部門有效客戶名單。
+- 熟悉使用 AWS CloudWatch，根據各項監控需求串接至 Slack 或 AWS SNS 將告警信寄送給主管及維運團隊。
+- 熟悉使用 AWS Config 及 AWS CloudTrail 依需求客製規則，來完成稽核或追蹤資源變更或資安需求等等。
+- 熟悉使用 AWS S3 並開啟快取來放置圖片、文件或靜態網站，設置lifecycle policy 或 S3 Glacier 來管控資料的生命週期或長期存放。
+- 熟悉並串接 AWS Cogito 整合第三方驗證，達到使用者註冊/登入和存取控制。
+- 了解 CloudFormation 並使用 AWS CDK 來實現 IaC 並整合 AWS CodePipeline 管控基礎設施資源。
+- 了解 AWS ECR 並整合 AWS CodePipeline 部署資源至 AWS EC2 或 AWS ECS
 
 ## 工具/伺服器/資料庫
 - Docker (Docker Compose 定義多容器應用)
@@ -106,10 +106,9 @@
      * 品質保證: 使用Jest 單元測試及整合測試，確保版本更新前是正常運行且符合預期。
      * 訪談各部門的使用者需求並製作 UI/UX ，以確保使用者體驗及功能要求有符合使用者需求。
    * 電子信箱 EDM系統：開發、維護及搬遷上雲
-      * E地端 Mail Server 系統上雲: 原先寄送上萬封信需要2~3 個小時，上雲改為 AWS SES 後僅需要 5 ~ 10分鐘即可完成，建立 Hard/Soft Bounce 機制（AWS PHP SDK），優化客戶名單品質。
+      * 地端 Mail Server 系統上雲: 地端Mail Server 寄送上萬封信需要2~3 個小時，上雲改為 AWS SES 後僅需要 5 ~ 10分鐘即可完成，建立 Hard/Soft Bounce 機制（AWS PHP SDK），優化客戶名單品質。
       * 跨系統功能整合: 開發活動報名系統，整合 EDM 與官網 API，提升行銷活動轉換率
       * 編輯器工具串接AWS S3 : CKEditor 串接AWS S3， MKT 可上傳檔案及圖片至AWS S3，並使用CloudFront 快取。
-
    * 官方網站前台及後台系統：網站開發與維護
       * 重構底層架構 : 分離商業邏輯與畫面層，並運用 Code Splitting、Memoization 等技術，減少不必要的 re-render，提升效能與可維護性。
       * 優化網頁品質: 導入 Gulp 自動化流程（壓縮、拆分、圖片 WebP 轉換），使用 Lazy Loading 延遲載入圖片、Youtube影片等等， Lighthouse 桌機分數由 34 提升至 72
@@ -126,8 +125,8 @@
       * 組態監控及異常排除: 使用 AWS Config 追蹤資源變更，並使用 AWS CloudTrail來追蹤API呼叫狀態及異常派除。
 
    * 雲端專案
-      * Microservice PoC : 建置 AWS API Gateway 及 Lambda 達到Serverless，協助客戶微服務搬遷上雲
-      * AWS CICD 搬遷上雲 PoC:  協助客戶導入 AWS CodePipeline CI/CD，並建置 Lab 環境，完成實作 POC 專案
+      * 微服務 PoC : 建置 AWS API Gateway 及 Lambda 達到Serverless，協助客戶微服務搬遷上雲
+      * AWS CI/CD 搬遷上雲 PoC:  協助客戶導入 AWS CodePipeline CI/CD，並建置 Lab 環境，完成實作 POC 專案
 
 
 ### Moveon 慕恩創意行銷網頁設計公司<BR>
@@ -160,7 +159,7 @@
    <img src="booknote_backend_dashbord.png" width="450" height="300">
    <img src="booknote_backend_uploadpic.png" width="500" height="300"><BR>
    ⌞ 使用 Vuex 以及 Nuxt 完成，並用 i18n 支持多語言（中 / 英) 。<BR>
-   ⌞ 設計 UI/UX 並製作較完整的購物網站流程，含前台跟後台以及購物車頁面等等。<BR>
+   ⌞ 設計 UI/UX 並製作完整的購物網站流程，含前台跟後台以及購物車頁面等等。<BR>
    ⌞ 使用 Cookies 來記錄使用者登入狀態及當前搜尋書本關鍵字 <BR>
    ⌞ 使用 RESTful API 來完成後台的商品及上傳 CRUD 功能 <BR>
    ⌞ 使用 Google Analytics 來追蹤網站成效，並且設定轉換率確認使用者停留頁面等等事件<BR>
